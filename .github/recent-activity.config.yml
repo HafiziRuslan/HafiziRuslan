@@ -1,10 +1,10 @@
 settings:
   # username: "Readme-Workflows" # Replace with your username or comment out this line
-  commit_msg: "⚡ Update README with the recent activity"
+  # commit_msg: "⚡ Update README with the recent activity"
   max_lines: 10
   # readme_file: "./TEMPLATE.md"
-  # disabled_events:
-  #   - "comments"
+  disabled_events:
+    - "push"
   url_text: "{REPO}{ID}"
   date:
     timezone: "Asia/Kuala_Lumpur"

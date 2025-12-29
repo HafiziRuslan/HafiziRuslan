@@ -1,11 +1,8 @@
 name: activity
 
 on:
-  workflow_run:
-    workflows:
-      - metrics
-    types:
-      - completed
+  schedule:
+    - cron: '0 0/4 * * *'
 
 jobs:
   activity:
