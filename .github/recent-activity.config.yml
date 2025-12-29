@@ -4,15 +4,15 @@ settings:
   max_lines: 10
   # readme_file: "./TEMPLATE.md"
   disabled_events:
-    - "push"
-  url_text: "{REPO}{ID}"
+    - 'push'
+  url_text: '{REPO}{ID}'
   date:
-    timezone: "Asia/Kuala_Lumpur"
-    text: "Last Updated: {DATE}"
-    format: "dd mmmm yyyy, HH:MM:ss Z"
+    timezone: 'Asia/Kuala_Lumpur'
+    text: 'Activity Updated: {DATE}'
+    format: 'dd mmmm yyyy, HH:MM:ss Z'
   # commit_name: "readme-bot"
   # commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
-  line_prefix: "{NUM}. "
+  line_prefix: '{NUM}. '
   # ignored_repos:
   #   - username/repo
 # messages:

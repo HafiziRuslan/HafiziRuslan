@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
