@@ -1,0 +1,51 @@
+name: update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: ImBIOS/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: true
+
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          custom-title: ${{ github.repository_owner }}
+          small-title: false
+          featured-repository: 'RasPiAPRS'
+          hide-keys: mostStarred, mostForked, followers, watchedBy
+          max-languages: auto
+          animated-language-chart: true
+          show-border: false
+          commit-message: 'Update stats image'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
