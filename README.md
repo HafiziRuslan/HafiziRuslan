@@ -91,4 +91,17 @@ C#                       1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
+2. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
+3. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
+4. ⭐ Starred [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs)<br>
+5. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
+6. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
+7. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
+8. ⭐ Starred [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)<br>
+9. <br>
+10. <br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Activity Updated: 30 December 2025, 00:27:51 GMT+0800
+<!--RECENT_ACTIVITY:last_update_end-->
