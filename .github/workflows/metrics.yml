@@ -10,8 +10,10 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: ImBIOS/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
