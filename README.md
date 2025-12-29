@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+![My user statistics](images/userstats.svg)
 
 <!--
 **HafiziRuslan/HafiziRuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,16 +21,16 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)<br>
-2. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)<br>
-3. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)<br>
-4. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)<br>
-5. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
-6. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)<br>
-7. ⬆️ Pushed undefined commit(s) to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest)<br>
-8. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
-9. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
-10. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+1. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)
+2. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)
+3. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)
+4. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan)
+5. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+6. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+7. ⬆️ Pushed 1 commit(s) to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest)
+8. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
+9. ⬆️ Pushed 1 commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+10. ⬆️ Pushed 1 commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
