@@ -19,8 +19,12 @@ jobs:
         with:
           colors: dark-dimmed
           custom-title: ${{github.repository_owner}}
-          hide-keys: mostStarred, mostForked, followers, private
-          max-languages: 100
+          small-title: false
+          featured-repository: 'RasPiAPRS'
+          hide-keys: mostStarred, mostForked, followers, watchedBy
+          max-languages: auto
           animated-language-chart: true
+          show-border: false
+          commit-message: 'Update stats image'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
