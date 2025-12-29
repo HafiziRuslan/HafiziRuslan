@@ -1,0 +1,20 @@
+name: metrics
+
+on:
+  workflow_run:
+    workflows:
+      - update
+    types:
+      - completed
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: ImBIOS/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: true

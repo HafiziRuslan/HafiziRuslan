@@ -1,0 +1,19 @@
+name: activity
+
+on:
+  workflow_run:
+    workflows:
+      - metrics
+    types:
+      - completed
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

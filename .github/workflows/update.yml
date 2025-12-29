@@ -6,28 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-
-  metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: ImBIOS/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LINES_OF_CODE: true
-
-  activity:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   stats:
     runs-on: ubuntu-latest
     permissions:
