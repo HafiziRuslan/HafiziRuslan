@@ -11,8 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
+      - uses: actions/checkout@main
       - name: Generate the user stats
         uses: cicirello/user-statistician@main
         with:
