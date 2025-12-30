@@ -2,7 +2,7 @@ name: update
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0/2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate the user stats image
-        uses: cicirello/user-statistician@v1
+      - name: Generate the user stats
+        uses: cicirello/user-statistician@main
         with:
-          colors: dark-dimmed
+          include-title: true
           custom-title: ${{ github.repository_owner }}
           small-title: false
           featured-repository: 'RasPiAPRS'
-          hide-keys: mostStarred, mostForked, followers, watchedBy
           max-languages: auto
           animated-language-chart: true
+          language-animation-speed: 20
+          colors: dark-dimmed
+          border-radius: 1
           show-border: false
-          commit-message: 'Update stats image'
+          hide-keys: mostStarred, mostForked, followers, following, watchedBy
+          commit-message: 'Update stats'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
