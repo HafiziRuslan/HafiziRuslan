@@ -103,8 +103,7 @@ This is a list of my most recent activity on GitHub.
 7. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
 8. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
 9. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
-10. ⭐ Starred [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2025-12-31T00:24:27+0800
+Activity updated: 2025-12-31T01:19:14+0800
 <!--RECENT_ACTIVITY:last_update_end-->
