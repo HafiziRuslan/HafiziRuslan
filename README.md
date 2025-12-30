@@ -94,15 +94,17 @@ C#                       1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
-2. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
-3. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
-4. ⭐ Starred [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs)<br>
-5. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
-6. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
-7. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
-8. ⭐ Starred [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)<br>
+1. ⭐ Starred [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)<br>
+2. ❌ Closed PR [#52](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+3. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
+4. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
+5. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
+6. ⭐ Starred [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs)<br>
+7. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
+8. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
+9. ⭐ Starred [karol-broda/snitch](https://github.com/karol-broda/snitch)<br>
+10. ⭐ Starred [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity Updated: 30 December 2025, 09:49:25 GMT+0800
+Activity Updated: 30 December 2025, 16:31:35 GMT+0800
 <!--RECENT_ACTIVITY:last_update_end-->
