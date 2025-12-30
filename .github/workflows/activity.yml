@@ -1,14 +1,8 @@
 name: activity
 
 on:
-  workflow_run:
-    workflows:
-      - update
-      - metrics
-    types:
-      - completed
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '@hourly
   workflow_dispatch:
 
 jobs:
