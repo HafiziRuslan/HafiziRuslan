@@ -104,15 +104,16 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)<br>
-2. ❌ Closed PR [#52](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
-3. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
-4. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
-5. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
-6. ⭐ Starred [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs)<br>
-7. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
-8. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
+1. ⭐ Starred [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts)<br>
+2. ⭐ Starred [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)<br>
+3. ❌ Closed PR [#52](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+4. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
+5. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
+6. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
+7. ⭐ Starred [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs)<br>
+8. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
+9. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2025-12-31T14:29:58+0800
+Activity updated: 2025-12-31T15:21:41+0800
 <!--RECENT_ACTIVITY:last_update_end-->
