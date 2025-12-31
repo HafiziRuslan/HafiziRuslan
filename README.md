@@ -104,16 +104,14 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts)<br>
-2. ⭐ Starred [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)<br>
-3. ❌ Closed PR [#52](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
-4. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
-5. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
-6. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
-7. ⭐ Starred [bricky149/rt890-flash-rs](https://github.com/bricky149/rt890-flash-rs)<br>
-8. ⭐ Starred [DualTachyon/rt-4d-fw-beta](https://github.com/DualTachyon/rt-4d-fw-beta)<br>
-9. ⭐ Starred [python-aprs/aprs3](https://github.com/python-aprs/aprs3)<br>
+1. ❌ Closed PR [#11](undefined) in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
+2. ⭐ Starred [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts)<br>
+3. ⭐ Starred [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)<br>
+4. ❌ Closed PR [#52](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+5. ⭐ Starred [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime)<br>
+6. ⭐ Starred [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli)<br>
+7. ⭐ Starred [osm-search/Nominatim](https://github.com/osm-search/Nominatim)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-01T00:23:14+0800
+Activity updated: 2026-01-01T01:16:46+0800
 <!--RECENT_ACTIVITY:last_update_end-->
