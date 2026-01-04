@@ -105,11 +105,15 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#3](undefined) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
-2. ⭐ Starred [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android)<br>
-3. 💪 Opened PR [#1](undefined) in [HafiziRuslan/PiStar-LastHeard-Telegram](https://github.com/HafiziRuslan/PiStar-LastHeard-Telegram)<br>
-4. 💪 Opened PR [#14](undefined) in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
+1. ⭐ Starred [python/cpython](https://github.com/python/cpython)<br>
+2. ⭐ Starred [ygwyg/merchant](https://github.com/ygwyg/merchant)<br>
+3. ⭐ Starred [RahulPalve/openforms](https://github.com/RahulPalve/openforms)<br>
+4. ⭐ Starred [dabit3/openform](https://github.com/dabit3/openform)<br>
+5. ⭐ Starred [itshover/itshover](https://github.com/itshover/itshover)<br>
+6. ❌ Closed PR [#3](undefined) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
+7. ⭐ Starred [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android)<br>
+8. 💪 Opened PR [#1](undefined) in [HafiziRuslan/PiStar-LastHeard-Telegram](https://github.com/HafiziRuslan/PiStar-LastHeard-Telegram)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-04T22:16:29+0800
+Activity updated: 2026-01-04T23:17:10+0800
 <!--RECENT_ACTIVITY:last_update_end-->
