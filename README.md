@@ -105,17 +105,17 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SOORAJTS2001/gazetteer](https://github.com/SOORAJTS2001/gazetteer)<br>
-2. ⭐ Starred [farinchan/n8n-nodes-chatery-whatsapp](https://github.com/farinchan/n8n-nodes-chatery-whatsapp)<br>
-3. ⭐ Starred [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp)<br>
-4. ⭐ Starred [vivienhenz24/fuzzy-canary](https://github.com/vivienhenz24/fuzzy-canary)<br>
-5. ⭐ Starred [rkusa/pdfjs](https://github.com/rkusa/pdfjs)<br>
-6. ⭐ Starred [kallefrombosnia/tinypdf-php](https://github.com/kallefrombosnia/tinypdf-php)<br>
-7. ⭐ Starred [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)<br>
-8. ⭐ Starred [python/cpython](https://github.com/python/cpython)<br>
-9. ⭐ Starred [ygwyg/merchant](https://github.com/ygwyg/merchant)<br>
-10. ⭐ Starred [RahulPalve/openforms](https://github.com/RahulPalve/openforms)<br>
+1. ⭐ Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)<br>
+2. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
+3. ⭐ Starred [SOORAJTS2001/gazetteer](https://github.com/SOORAJTS2001/gazetteer)<br>
+4. ⭐ Starred [farinchan/n8n-nodes-chatery-whatsapp](https://github.com/farinchan/n8n-nodes-chatery-whatsapp)<br>
+5. ⭐ Starred [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp)<br>
+6. ⭐ Starred [vivienhenz24/fuzzy-canary](https://github.com/vivienhenz24/fuzzy-canary)<br>
+7. ⭐ Starred [rkusa/pdfjs](https://github.com/rkusa/pdfjs)<br>
+8. ⭐ Starred [kallefrombosnia/tinypdf-php](https://github.com/kallefrombosnia/tinypdf-php)<br>
+9. ⭐ Starred [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)<br>
+10. ⭐ Starred [python/cpython](https://github.com/python/cpython)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-05T19:17:45+0800
+Activity updated: 2026-01-05T20:41:38+0800
 <!--RECENT_ACTIVITY:last_update_end-->
