@@ -105,17 +105,17 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jcalado/rt4d-cps](https://github.com/jcalado/rt4d-cps)<br>
-2. ⭐ Starred [jcalado/rt-4d-fw-beta](https://github.com/jcalado/rt-4d-fw-beta)<br>
-3. ⭐ Starred [alam00000/bentopdf](https://github.com/alam00000/bentopdf)<br>
-4. ⭐ Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)<br>
-5. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
-6. ⭐ Starred [SOORAJTS2001/gazetteer](https://github.com/SOORAJTS2001/gazetteer)<br>
-7. ⭐ Starred [farinchan/n8n-nodes-chatery-whatsapp](https://github.com/farinchan/n8n-nodes-chatery-whatsapp)<br>
-8. ⭐ Starred [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp)<br>
-9. ⭐ Starred [vivienhenz24/fuzzy-canary](https://github.com/vivienhenz24/fuzzy-canary)<br>
-10. ⭐ Starred [rkusa/pdfjs](https://github.com/rkusa/pdfjs)<br>
+1. ⭐ Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)<br>
+2. 🔱 Forked [HafiziRuslan/NextionDriver](https://github.com/HafiziRuslan/NextionDriver) from [on7lds/NextionDriver](https://github.com/on7lds/NextionDriver)<br>
+3. ⭐ Starred [jcalado/rt4d-cps](https://github.com/jcalado/rt4d-cps)<br>
+4. ⭐ Starred [jcalado/rt-4d-fw-beta](https://github.com/jcalado/rt-4d-fw-beta)<br>
+5. ⭐ Starred [alam00000/bentopdf](https://github.com/alam00000/bentopdf)<br>
+6. ⭐ Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)<br>
+7. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
+8. ⭐ Starred [SOORAJTS2001/gazetteer](https://github.com/SOORAJTS2001/gazetteer)<br>
+9. ⭐ Starred [farinchan/n8n-nodes-chatery-whatsapp](https://github.com/farinchan/n8n-nodes-chatery-whatsapp)<br>
+10. ⭐ Starred [farinchan/chatery_whatsapp](https://github.com/farinchan/chatery_whatsapp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-06T01:20:41+0800
+Activity updated: 2026-01-06T02:29:50+0800
 <!--RECENT_ACTIVITY:last_update_end-->
