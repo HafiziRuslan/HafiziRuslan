@@ -105,14 +105,17 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [python/cpython](https://github.com/python/cpython)<br>
-2. ⭐ Starred [ygwyg/merchant](https://github.com/ygwyg/merchant)<br>
-3. ⭐ Starred [RahulPalve/openforms](https://github.com/RahulPalve/openforms)<br>
-4. ⭐ Starred [dabit3/openform](https://github.com/dabit3/openform)<br>
-5. ⭐ Starred [itshover/itshover](https://github.com/itshover/itshover)<br>
-6. ❌ Closed PR [#3](undefined) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
-7. ⭐ Starred [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android)<br>
+1. ⭐ Starred [vivienhenz24/fuzzy-canary](https://github.com/vivienhenz24/fuzzy-canary)<br>
+2. ⭐ Starred [rkusa/pdfjs](https://github.com/rkusa/pdfjs)<br>
+3. ⭐ Starred [kallefrombosnia/tinypdf-php](https://github.com/kallefrombosnia/tinypdf-php)<br>
+4. ⭐ Starred [Lulzx/tinypdf](https://github.com/Lulzx/tinypdf)<br>
+5. ⭐ Starred [python/cpython](https://github.com/python/cpython)<br>
+6. ⭐ Starred [ygwyg/merchant](https://github.com/ygwyg/merchant)<br>
+7. ⭐ Starred [RahulPalve/openforms](https://github.com/RahulPalve/openforms)<br>
+8. ⭐ Starred [dabit3/openform](https://github.com/dabit3/openform)<br>
+9. ⭐ Starred [itshover/itshover](https://github.com/itshover/itshover)<br>
+10. ❌ Closed PR [#3](undefined) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-05T16:29:46+0800
+Activity updated: 2026-01-05T17:29:36+0800
 <!--RECENT_ACTIVITY:last_update_end-->
