@@ -105,17 +105,17 @@ C#                       1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MorpheApp/morphe-patcher](https://github.com/MorpheApp/morphe-patcher)<br>
-2. ⭐ Starred [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)<br>
-3. ⭐ Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)<br>
-4. ⭐ Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)<br>
-5. 🔱 Forked [HafiziRuslan/NextionDriver](https://github.com/HafiziRuslan/NextionDriver) from [on7lds/NextionDriver](https://github.com/on7lds/NextionDriver)<br>
-6. ⭐ Starred [jcalado/rt4d-cps](https://github.com/jcalado/rt4d-cps)<br>
-7. ⭐ Starred [jcalado/rt-4d-fw-beta](https://github.com/jcalado/rt-4d-fw-beta)<br>
-8. ⭐ Starred [alam00000/bentopdf](https://github.com/alam00000/bentopdf)<br>
-9. ⭐ Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)<br>
-10. ⭐ Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)<br>
+1. ❌ Closed PR [#53](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+2. ⭐ Starred [MorpheApp/morphe-patcher](https://github.com/MorpheApp/morphe-patcher)<br>
+3. ⭐ Starred [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)<br>
+4. ⭐ Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)<br>
+5. ⭐ Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)<br>
+6. 🔱 Forked [HafiziRuslan/NextionDriver](https://github.com/HafiziRuslan/NextionDriver) from [on7lds/NextionDriver](https://github.com/on7lds/NextionDriver)<br>
+7. ⭐ Starred [jcalado/rt4d-cps](https://github.com/jcalado/rt4d-cps)<br>
+8. ⭐ Starred [jcalado/rt-4d-fw-beta](https://github.com/jcalado/rt-4d-fw-beta)<br>
+9. ⭐ Starred [alam00000/bentopdf](https://github.com/alam00000/bentopdf)<br>
+10. ⭐ Starred [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-07T19:18:18+0800
+Activity updated: 2026-01-07T20:40:48+0800
 <!--RECENT_ACTIVITY:last_update_end-->
