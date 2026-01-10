@@ -59,27 +59,27 @@ Sunday                   283 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    12 hrs 43 mins      ████████████████░░░░░░░░░   62.94 % 
-Python                   5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-PHP                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    11 hrs 14 mins      ████████████████░░░░░░░░░   63.68 % 
+Python                   4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+PHP                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Edge                     8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.86 % 
-VS Code                  7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.15 % 
-MobaXterm                2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Notepad++                1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-WinSCP:SFTP,FTP,WebDAV,S347 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Edge                     6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.55 % 
+VS Code                  6 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.14 % 
+MobaXterm                2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Notepad++                1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+WinSCP:SFTP,FTP,WebDAV,S347 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🐱‍💻 Projects: 
-raspiaprs                14 hrs 38 mins      ██████████████████░░░░░░░   72.43 % 
-Unknown Project          4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-WPSD-WebCode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-pslhtg                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+raspiaprs                12 hrs 5 mins       █████████████████░░░░░░░░   68.45 % 
+Unknown Project          4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+WPSD-WebCode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+pslhtg                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-Windows                  20 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
