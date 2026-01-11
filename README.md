@@ -112,8 +112,7 @@ This is a list of my most recent activity on GitHub.
 6. ⭐ Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)<br>
 7. ⭐ Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)<br>
 8. 🔱 Forked [HafiziRuslan/NextionDriver](https://github.com/HafiziRuslan/NextionDriver) from [on7lds/NextionDriver](https://github.com/on7lds/NextionDriver)<br>
-9. ⭐ Starred [jcalado/rt4d-cps](https://github.com/jcalado/rt4d-cps)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-11T12:45:31+0800
+Activity updated: 2026-01-11T13:22:56+0800
 <!--RECENT_ACTIVITY:last_update_end-->
