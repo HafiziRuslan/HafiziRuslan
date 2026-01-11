@@ -113,8 +113,7 @@ This is a list of my most recent activity on GitHub.
 7. ⭐ Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)<br>
 8. 🔱 Forked [HafiziRuslan/NextionDriver](https://github.com/HafiziRuslan/NextionDriver) from [on7lds/NextionDriver](https://github.com/on7lds/NextionDriver)<br>
 9. ⭐ Starred [jcalado/rt4d-cps](https://github.com/jcalado/rt4d-cps)<br>
-10. ⭐ Starred [jcalado/rt-4d-fw-beta](https://github.com/jcalado/rt-4d-fw-beta)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-11T09:44:35+0800
+Activity updated: 2026-01-11T11:48:08+0800
 <!--RECENT_ACTIVITY:last_update_end-->
