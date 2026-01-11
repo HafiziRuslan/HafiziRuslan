@@ -110,8 +110,7 @@ This is a list of my most recent activity on GitHub.
 4. ⭐ Starred [MorpheApp/morphe-patcher](https://github.com/MorpheApp/morphe-patcher)<br>
 5. ⭐ Starred [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)<br>
 6. ⭐ Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)<br>
-7. ⭐ Starred [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Activity updated: 2026-01-11T20:36:37+0800
+Activity updated: 2026-01-11T21:28:17+0800
 <!--RECENT_ACTIVITY:last_update_end-->
