@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.58%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data**
+## 🐱 My GitHub Data*
 
 > 📦 52.3 kB Used in GitHub's Storage
  >
@@ -32,7 +30,8 @@ Here are some ideas to get you started:
  >
 > 🔑 0 Private Repositories
  >
-**I'm a Night 🦉**
+
+## I'm a Night 🦉
 
 ```text
 🌞 Morning                515 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
@@ -40,7 +39,8 @@ Here are some ideas to get you started:
 🌃 Evening                946 commits         ████████░░░░░░░░░░░░░░░░░   30.08 %
 🌙 Night                  1085 commits        █████████░░░░░░░░░░░░░░░░   34.50 %
 ```
-📅 **I'm Most Productive on Tuesday**
+
+## 📅 I'm Most Productive on Tuesday
 
 ```text
 Monday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
@@ -52,8 +52,7 @@ Saturday                 330 commits         ███░░░░░░░░�
 Sunday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 ```
 
-
-📊 **This Week I Spent My Time On**
+## 📊 This Week I Spent My Time On
 
 ```text
 🕑︎ Time Zone: Asia/Kuala_Lumpur
@@ -82,7 +81,7 @@ pslhtg                   10 mins             ░░░░░░░░░░░�
 Windows                  12 hrs 12 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in PHP**
+## I Mostly Code in PHP
 
 ```text
 PHP                      4 repos             ███████████░░░░░░░░░░░░░░   44.44 %
@@ -91,13 +90,11 @@ HTML                     2 repos             ██████░░░░░�
 CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
 
+## Timeline
 
-
-**Timeline**
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 ![Lines of Code chart](https://raw.githubusercontent.com/HafiziRuslan/HafiziRuslan/master/assets/bar_graph.png)
-
-
 <!--END_SECTION:waka-->
 
 ## Recent Activity
