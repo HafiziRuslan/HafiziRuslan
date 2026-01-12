@@ -1,11 +1,9 @@
 name: metrics
 
 on:
-  workflow_run:
-    workflows:
-      - update
-    types:
-      - completed
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   metrics:
@@ -16,7 +14,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: 'Update metrics'
-          SHOW_TOTAL_CODE_TIME: false
+          SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
           SHOW_UPDATED_DATE: false

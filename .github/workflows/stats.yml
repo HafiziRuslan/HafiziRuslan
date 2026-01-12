@@ -1,8 +1,8 @@
-name: update
+name: stats
 
 on:
   schedule:
-    - cron: '0 0/2 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
           featured-repository: 'RasPiAPRS'
           max-languages: auto
           animated-language-chart: true
-          language-animation-speed: 20
+          language-animation-speed: 45
           colors: dark-dimmed
           border-radius: 1
           show-border: false
