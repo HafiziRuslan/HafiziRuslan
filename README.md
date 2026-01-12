@@ -18,78 +18,37 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-## 🐱 My GitHub Data
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.19%20thousand%20lines%20of%20code-blue?style=flat)
 
-> 📦 52.3 kB Used in GitHub's Storage\
-> 🏆 85 Contributions in the Year 2026\
-> 💼 Opted to Hire\
-> 📜 10 Public Repositories\
-> 🔑 0 Private Repositories
+**🐱 My GitHub Data** 
 
-## I'm a Night 🦉
-
-```text
-🌞 Morning                515 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-🌆 Daytime                599 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 %
-🌃 Evening                946 commits         ████████░░░░░░░░░░░░░░░░░   30.08 %
-🌙 Night                  1085 commits        █████████░░░░░░░░░░░░░░░░   34.50 %
-```
-
-## 📅 I'm Most Productive on Tuesday
+> 📦 52.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 91 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in PHP** 
 
 ```text
-Monday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
-Tuesday                  621 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-Wednesday                520 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Thursday                 604 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 %
-Friday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Saturday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Sunday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+PHP                      4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
-## 📊 This Week I Spent My Time On
 
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
 
-💬 Programming Languages:
-Other                    7 hrs 13 mins       ███████████████░░░░░░░░░░   59.15 %
-Python                   3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-PHP                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-
-🔥 Editors:
-Edge                     5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.93 %
-VS Code                  4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.80 %
-MobaXterm                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-WinSCP:SFTP,FTP,WebDAV,S344 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Notepad++                34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-
-🐱‍💻 Projects:
-raspiaprs                9 hrs 10 mins       ███████████████████░░░░░░   75.14 %
-Unknown Project          2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 %
-WPSD-WebCode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-pslhtg                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-
-💻 Operating System:
-Windows                  12 hrs 12 mins      █████████████████████████   100.00 %
-```
-
-## I Mostly Code in PHP
-
-```text
-PHP                      4 repos             ███████████░░░░░░░░░░░░░░   44.44 %
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 %
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 %
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-```
-
-## Timeline
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-553.58%20thousand%20lines%20of%20code-blue?style=flat)
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/HafiziRuslan/HafiziRuslan/master/assets/bar_graph.png)
+
+
 <!--END_SECTION:waka-->
 
 ## Recent Activity
