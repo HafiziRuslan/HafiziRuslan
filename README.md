@@ -18,18 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-## 🐱 My GitHub Data*
+## 🐱 My GitHub Data
 
-> 📦 52.3 kB Used in GitHub's Storage
- >
-> 🏆 85 Contributions in the Year 2026
- >
-> 💼 Opted to Hire
- >
-> 📜 10 Public Repositories
- >
+> 📦 52.3 kB Used in GitHub's Storage\
+> 🏆 85 Contributions in the Year 2026\
+> 💼 Opted to Hire\
+> 📜 10 Public Repositories\
 > 🔑 0 Private Repositories
- >
 
 ## I'm a Night 🦉
 
