@@ -18,40 +18,40 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.70%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 52.3 kB Used in GitHub's Storage 
+> 📦 52.5 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                515 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-🌆 Daytime                599 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌃 Evening                950 commits         ████████░░░░░░░░░░░░░░░░░   30.09 % 
-🌙 Night                  1093 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌞 Morning                515 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌆 Daytime                599 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+🌃 Evening                950 commits         ████████░░░░░░░░░░░░░░░░░   30.03 % 
+🌙 Night                  1100 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Tuesday                  624 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Thursday                 609 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Friday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Saturday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Sunday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Monday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Tuesday                  624 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Wednesday                521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Thursday                 616 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Friday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Saturday                 330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Sunday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 
 
@@ -61,38 +61,38 @@ Sunday                   283 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    13 hrs 22 mins      █████████████████████░░░░   82.22 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    12 hrs 10 mins      █████████████████████░░░░   85.66 % 
+Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Shell                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-Edge                     6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.35 % 
-MobaXterm                3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-VS Code                  2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-WinSCP:SFTP,FTP,WebDAV,S32 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Notepad++                1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Edge                     5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
+MobaXterm                3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+VS Code                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+WinSCP:SFTP,FTP,WebDAV,S31 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Notepad++                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.36 % 
-RasPi-Backups            4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-raspiaprs                3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-HafiziRuslan             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-pslhtg                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Unknown Project          5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.91 % 
+RasPi-Backups            5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
+raspiaprs                2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+HafiziRuslan             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+pslhtg                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Windows                  16 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+PHP                      5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
