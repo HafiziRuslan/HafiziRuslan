@@ -106,12 +106,12 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
-2. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
+1. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+2. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
 3. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
 4. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
 5. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
-6. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
+6. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
 7. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
 8. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
 9. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
@@ -119,6 +119,6 @@ This is a list of my most recent activity on GitHub.
 11. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
 12. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
 13. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
-14. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
-15. ⭐ Starred [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop)<br>
+14. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
+15. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
 <!--RECENT_ACTIVITY:end-->
