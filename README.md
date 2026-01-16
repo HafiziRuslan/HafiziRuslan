@@ -106,19 +106,19 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)<br>
-3. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
-4. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
-5. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
-6. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
-7. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
-8. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
-9. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
+1. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
+2. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
+3. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)<br>
+4. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)<br>
+5. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
+6. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
+7. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+8. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+9. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
 10. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
 11. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
 12. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
-13. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
+13. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv)<br>
 14. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
 15. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)<br>
 <!--RECENT_ACTIVITY:end-->
