@@ -61,26 +61,26 @@ Sunday                   297 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.90 % 
-HTML                     2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Bash                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Text                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Python                   3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
+HTML                     2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Bash                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Text                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 22 mins       ████████████████████████░   94.98 % 
-Edge                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Notepad++                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  8 hrs 13 mins       ████████████████████████░   95.40 % 
+Edge                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-raspiaprs                4 hrs 57 mins       ██████████████░░░░░░░░░░░   56.24 % 
-cv.mhrtech.my            2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-RasPi-Backups            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-HafiziRuslan             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-server                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+raspiaprs                4 hrs 57 mins       ██████████████░░░░░░░░░░░   57.53 % 
+cv.mhrtech.my            2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+RasPi-Backups            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+HafiziRuslan             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+server                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
