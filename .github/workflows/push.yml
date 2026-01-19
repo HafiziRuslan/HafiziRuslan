@@ -69,3 +69,24 @@ jobs:
           password: ${{ secrets.GITEA_TOKEN }}
           summary: false
           private: false
+
+  w0chp:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+
+      - name: 'push to WPSD-Dev'
+        uses: cssnr/mirror-repository-action@latest
+        with:
+          host: https://repo.w0chp.net
+          owner: 9w2lgx
+          repo: .profile
+          create: false
+          username: 9w2lgx
+          password: ${{ secrets.W0CHP_TOKEN }}
+          summary: false
+          private: false
