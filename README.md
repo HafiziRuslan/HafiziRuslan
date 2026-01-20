@@ -116,13 +116,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch)<br>
-2. ⭐ Starred [Notifiarr/toolbarr](https://github.com/Notifiarr/toolbarr)<br>
-3. ❌ Closed PR [#5](undefined) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
-4. ❌ Closed PR [#4](undefined) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
-5. ⭐ Starred [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)<br>
-6. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
-7. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
-8. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
-9. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
+1. ❌ Closed PR [#54](undefined) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)<br>
+2. ⭐ Starred [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch)<br>
+3. ⭐ Starred [Notifiarr/toolbarr](https://github.com/Notifiarr/toolbarr)<br>
+4. ❌ Closed PR [#5](undefined) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
+5. ❌ Closed PR [#4](undefined) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
+6. ⭐ Starred [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)<br>
+7. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
+8. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
+9. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+10. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
 <!--RECENT_ACTIVITY:end-->
