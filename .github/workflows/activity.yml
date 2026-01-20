@@ -8,10 +8,10 @@ on:
 jobs:
   activity:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@main
-      - uses: Readme-Workflows/recent-activity@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: TheDanniCraft/activity-log@master
+        with:
+          GITHUB_USERNAME: ${{ github.repository_owner}}
+          GITHUB_TOKEN: ${{ github.token }}
+          COMMIT_MESSAGE: 'Update activity'
