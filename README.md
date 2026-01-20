@@ -114,19 +114,13 @@ Shell                    1 repo              ██░░░░░░░░░�
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-2. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-3. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/PiStar-LastHeard-Telegram](https://github.com/HafiziRuslan/PiStar-LastHeard-Telegram)
-4. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/PiStar-LastHeard-Telegram](https://github.com/HafiziRuslan/PiStar-LastHeard-Telegram)
-5. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-6. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-7. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-8. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-9. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-10. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-11. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-12. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-13. ⬆️ Pushed undefined commit(s) to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-14. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-15. ⬆️ Pushed undefined commit(s) to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
+1. ⭐ Starred [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch)<br>
+2. ⭐ Starred [Notifiarr/toolbarr](https://github.com/Notifiarr/toolbarr)<br>
+3. ❌ Closed PR [#5](undefined) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
+4. ❌ Closed PR [#4](undefined) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)<br>
+5. ⭐ Starred [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)<br>
+6. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
+7. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
+8. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+9. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
 <!--RECENT_ACTIVITY:end-->
