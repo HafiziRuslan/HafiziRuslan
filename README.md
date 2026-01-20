@@ -27,85 +27,87 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2043%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2050%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.02%20thousand%20lines%20of%20code-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.87%20thousand%20lines%20of%20code-blue?style=flat)
+**🐱 My GitHub Data** 
 
-**🐱 My GitHub Data**
-
-> 📦 53.0 kB Used in GitHub's Storage
->
-> 🏆 153 Contributions in the Year 2026
->
+> 📦 53.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 170 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
->
-> 📜 11 Public Repositories
->
-> 🔑 1 Private Repositories
-
-**I'm a Night 🦉**
-
-```text
-🌞 Morning                523 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-🌆 Daytime                613 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 %
-🌃 Evening                963 commits         ████████░░░░░░░░░░░░░░░░░   30.00 %
-🌙 Night                  1111 commits        █████████░░░░░░░░░░░░░░░░   34.61 %
-```
-
-📅 **I'm Most Productive on Tuesday**
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-Monday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Tuesday                  627 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Wednesday                521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Thursday                 616 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 %
-Friday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Saturday                 350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Sunday                   297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+🌞 Morning                539 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+🌆 Daytime                613 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌃 Evening                963 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌙 Night                  1112 commits        █████████░░░░░░░░░░░░░░░░   34.46 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  644 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Wednesday                521 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Thursday                 616 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Friday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Saturday                 350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Sunday                   297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
-💬 Programming Languages:
-Python                   5 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.04 %
-HTML                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 %
-Bash                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+💬 Programming Languages: 
+Python                   6 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.73 % 
+HTML                     2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+PHP                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Bash                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
-🔥 Editors:
-VS Code                  10 hrs 39 mins      ████████████████████████░   94.82 %
-Edge                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🔥 Editors: 
+VS Code                  13 hrs 31 mins      ████████████████████████░   96.08 % 
+Edge                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
-🐱‍💻 Projects:
-raspiaprs                7 hrs 34 mins       █████████████████░░░░░░░░   67.43 %
-cv.mhrtech.my            2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 %
-RasPi-Backups            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-HafiziRuslan             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-server                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+🐱‍💻 Projects: 
+raspiaprs                8 hrs 39 mins       ███████████████░░░░░░░░░░   61.47 % 
+cv.mhrtech.my            2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+WebCode                  2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+RasPi-Backups            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+server                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
-💻 Operating System:
-Windows                  11 hrs 14 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  14 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in PHP**
+**I Mostly Code in PHP** 
 
 ```text
-PHP                      5 repos             ███████████░░░░░░░░░░░░░░   45.45 %
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 %
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 %
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+PHP                      5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/HafiziRuslan/HafiziRuslan/master/assets/bar_graph.png)
+
 
 <!--END_SECTION:waka-->
 
