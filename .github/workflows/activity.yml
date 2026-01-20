@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@main
       - uses: TheDanniCraft/activity-log@master
         with:
-          GITHUB_USERNAME: ${{ github.repository_owner}}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           EVENT_LIMIT: 30
           COMMIT_MESSAGE: 'Update activity'
