@@ -125,5 +125,4 @@ This is a list of my most recent activity on GitHub.
 7. ⭐ Starred [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)<br>
 8. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
 9. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
-10. ⭐ Starred [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)<br>
 <!--RECENT_ACTIVITY:end-->
