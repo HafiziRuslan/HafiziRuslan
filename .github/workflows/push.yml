@@ -1,4 +1,4 @@
-name: 'Push Out Repo'
+name: push
 
 permissions:
   contents: read
