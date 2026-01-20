@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
 
       - name: 'push to Codeberg'
-        uses: cssnr/mirror-repository-action@latest
+        uses: cssnr/mirror-repository-action@master
         with:
           host: https://codeberg.org
           owner: hafiziruslan
@@ -38,7 +38,7 @@ jobs:
           fetch-depth: 0
 
       - name: 'push to GitLab'
-        uses: cssnr/mirror-repository-action@latest
+        uses: cssnr/mirror-repository-action@master
         with:
           host: https://gitlab.com
           owner: hafiziruslan
@@ -59,7 +59,7 @@ jobs:
           fetch-depth: 0
 
       - name: 'push to Gitea'
-        uses: cssnr/mirror-repository-action@latest
+        uses: cssnr/mirror-repository-action@master
         with:
           host: https://gitea.com
           owner: hafiziruslan
@@ -80,7 +80,7 @@ jobs:
           fetch-depth: 0
 
       - name: 'push to WPSD-Dev'
-        uses: cssnr/mirror-repository-action@latest
+        uses: cssnr/mirror-repository-action@master
         with:
           host: https://repo.w0chp.net
           owner: 9w2lgx
