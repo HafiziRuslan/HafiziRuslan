@@ -13,5 +13,6 @@ jobs:
       - uses: TheDanniCraft/activity-log@master
         with:
           GITHUB_USERNAME: ${{ github.repository_owner}}
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          EVENT_LIMIT: 30
           COMMIT_MESSAGE: 'Update activity'
