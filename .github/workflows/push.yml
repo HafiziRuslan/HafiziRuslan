@@ -5,6 +5,8 @@ permissions:
 
 on:
   push:
+    # paths-ignore:
+    #   - '.github/**'
 
 jobs:
   codeberg:
@@ -14,10 +16,9 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
-          fetch-depth: 0
-
-      - name: 'Remove github dir'
-        run: rm -rf .github
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to Codeberg'
         uses: cssnr/mirror-repository-action@master
@@ -38,10 +39,9 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
-          fetch-depth: 0
-
-      - name: 'Remove github dir'
-        run: rm -rf .github
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to GitLab'
         uses: cssnr/mirror-repository-action@master
@@ -62,10 +62,9 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
-          fetch-depth: 0
-
-      - name: 'Remove github dir'
-        run: rm -rf .github
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to Gitea'
         uses: cssnr/mirror-repository-action@master
@@ -86,10 +85,9 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
-          fetch-depth: 0
-
-      - name: 'Remove github dir'
-        run: rm -rf .github
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to WPSD-Dev'
         uses: cssnr/mirror-repository-action@master
