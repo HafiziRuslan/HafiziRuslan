@@ -15,9 +15,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
-          sparse-checkout: |
-            assets
-            images
+
+      - name: 'Remove github dir'
+        run: rm -rf .github
 
       - name: 'push to Codeberg'
         uses: cssnr/mirror-repository-action@master
@@ -39,9 +39,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
-          sparse-checkout: |
-            assets
-            images
+
+      - name: 'Remove github dir'
+        run: rm -rf .github
 
       - name: 'push to GitLab'
         uses: cssnr/mirror-repository-action@master
@@ -63,9 +63,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
-          sparse-checkout: |
-            assets
-            images
+
+      - name: 'Remove github dir'
+        run: rm -rf .github
 
       - name: 'push to Gitea'
         uses: cssnr/mirror-repository-action@master
@@ -87,9 +87,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
-          sparse-checkout: |
-            assets
-            images
+
+      - name: 'Remove github dir'
+        run: rm -rf .github
 
       - name: 'push to WPSD-Dev'
         uses: cssnr/mirror-repository-action@master
