@@ -15,6 +15,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to Codeberg'
         uses: cssnr/mirror-repository-action@master
@@ -36,6 +39,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to GitLab'
         uses: cssnr/mirror-repository-action@master
@@ -57,6 +63,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to Gitea'
         uses: cssnr/mirror-repository-action@master
@@ -78,6 +87,9 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 0
+          sparse-checkout: |
+            assets
+            images
 
       - name: 'push to WPSD-Dev'
         uses: cssnr/mirror-repository-action@master
