@@ -5,8 +5,8 @@ permissions:
 
 on:
   push:
-    # paths-ignore:
-    #   - '.github/**'
+    paths-ignore:
+      - '.github/**'
 
 jobs:
   codeberg:
@@ -26,7 +26,7 @@ jobs:
           host: https://codeberg.org
           owner: hafiziruslan
           repo: .profile
-          create: false
+          create: true
           username: hafiziruslan
           password: ${{ secrets.CODEBERG_TOKEN }}
           summary: false
@@ -49,7 +49,7 @@ jobs:
           host: https://gitlab.com
           owner: hafiziruslan
           repo: hafiziruslan
-          create: false
+          create: true
           username: hafiziruslan
           password: ${{ secrets.GITLAB_TOKEN }}
           summary: false
@@ -72,7 +72,7 @@ jobs:
           host: https://gitea.com
           owner: hafiziruslan
           repo: .profile
-          create: false
+          create: true
           username: hafiziruslan
           password: ${{ secrets.GITEA_TOKEN }}
           summary: false
@@ -95,7 +95,7 @@ jobs:
           host: https://repo.w0chp.net
           owner: 9w2lgx
           repo: .profile
-          create: false
+          create: true
           username: 9w2lgx
           password: ${{ secrets.W0CHP_TOKEN }}
           summary: false
