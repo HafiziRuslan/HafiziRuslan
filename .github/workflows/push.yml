@@ -7,6 +7,14 @@ on:
   push:
     paths-ignore:
       - '.github/**'
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - activity
+      - metrics
+      - stats
+    types:
+      - completed
 
 jobs:
   codeberg:
@@ -16,6 +24,7 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
+          fetch-depth: 0
           sparse-checkout: |
             assets
             images
@@ -39,6 +48,7 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
+          fetch-depth: 0
           sparse-checkout: |
             assets
             images
@@ -62,6 +72,7 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
+          fetch-depth: 0
           sparse-checkout: |
             assets
             images
@@ -85,6 +96,7 @@ jobs:
       - name: 'Checkout'
         uses: actions/checkout@main
         with:
+          fetch-depth: 0
           sparse-checkout: |
             assets
             images
