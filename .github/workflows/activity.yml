@@ -2,17 +2,20 @@ name: activity
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
   activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
-      - uses: TheDanniCraft/activity-log@master
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Generate the activity log
+        uses: TheDanniCraft/activity-log@master
         with:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          EVENT_LIMIT: 30
+          EVENT_LIMIT: 25
           COMMIT_MESSAGE: 'Update activity'
