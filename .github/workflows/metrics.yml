@@ -9,7 +9,11 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Generate the metrics
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
