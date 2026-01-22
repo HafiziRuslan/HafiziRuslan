@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: Generate the user stats
-        uses: cicirello/user-statistician@main
+        uses: cicirello/user-statistician@v1
         with:
           include-title: true
           custom-title: ${{ github.repository_owner }}
