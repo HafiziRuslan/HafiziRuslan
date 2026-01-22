@@ -2,7 +2,7 @@ name: stats
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@main
+      - name: Checkout
+        uses: actions/checkout@main
+
       - name: Generate the user stats
         uses: cicirello/user-statistician@main
         with:
