@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-575.29%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -70,25 +70,25 @@ Sunday                   297 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   7 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-YAML                     3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-PHP                      2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Markdown                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Bash                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Python                   4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+YAML                     3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+PHP                      2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 46 mins      █████████████████████░░░░   82.91 % 
-Edge                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+VS Code                  12 hrs 58 mins      ████████████████████░░░░░   78.21 % 
+Edge                     3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
 
 🐱‍💻 Projects: 
-raspiaprs                11 hrs 17 mins      █████████████░░░░░░░░░░░░   52.67 % 
-WebCode                  2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-HafiziRuslan             2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-mmdvmlhbot               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-pslhtg                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+raspiaprs                6 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
+WebCode                  2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+HafiziRuslan             2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+mmdvmlhbot               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+pslhtg                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 💻 Operating System: 
-Windows                  21 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
