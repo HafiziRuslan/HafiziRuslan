@@ -113,29 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [nullcpy/rvb](https://github.com/nullcpy/rvb)
-2. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/f05f2178e59a8e5d74e4822d50beca54f7aec0bb)
-3. 📝 Committed to a private repo
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bd97f23c178c1fdafd6c937fc17e6743b42ecdf1)
-5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/f643dcd1a4474c731759a240b8ae0b6fdd5f2197)
-6. 📝 Committed to a private repo
-7. ⭐ Starred [uniget-org/tools](https://github.com/uniget-org/tools)
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/ede08940ad592b247acaea07c452e0db4baa2e92)
-11. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e3cfd46b1de2619020aba85b1683a2f0a26150e6)
-12. 📝 Committed to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/bc9426594a77fcc593e79bc2f6262c766219de08)
-13. 📝 Committed to a private repo
-14. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/087eb55299116abe5369f1ecd843b1204367b220)
-15. 🗑️ Deleted a branch `dependabot/submodules/master/libs/hbb_common-900077a` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-16. ❌ Closed [PR #55](https://github.com/RoIPMARS/rustdesk/pull/55) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-17. ⭐ Starred [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui)
-18. 📝 Committed to a private repo
-19. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/01ca9f99e14fb6fc0ca98902d633f5b58c78979a)
-20. 🗑️ Deleted a branch `alert-autofix-6` in [RoIPMARS/www.roipmars.org.my](https://github.com/RoIPMARS/www.roipmars.org.my)
-21. 🔀 Merged [PR #3](https://github.com/RoIPMARS/www.roipmars.org.my/pull/3) in [RoIPMARS/www.roipmars.org.my](https://github.com/RoIPMARS/www.roipmars.org.my)
-22. 📝 Committed to [RoIPMARS/www.roipmars.org.my](https://github.com/RoIPMARS/www.roipmars.org.my/commit/f1cfb4d4e8d916befbd29809475755018fdd047a)
-23. 🎉 Created a new branch [`alert-autofix-6`](https://github.com/RoIPMARS/www.roipmars.org.my/tree/alert-autofix-6) in [RoIPMARS/www.roipmars.org.my](https://github.com/RoIPMARS/www.roipmars.org.my)
-24. 📝 Committed to [RoIPMARS/www.roipmars.org.my](https://github.com/RoIPMARS/www.roipmars.org.my/commit/8d05861c19eb7fef084dd7f6955b7282072fcec2)
-25. 📥 Opened [PR #3](https://github.com/RoIPMARS/www.roipmars.org.my/pull/3) in [RoIPMARS/www.roipmars.org.my](https://github.com/RoIPMARS/www.roipmars.org.my)
+1. ⭐ Starred [swadhinbiswas/ls-f](https://github.com/swadhinbiswas/ls-f)
+2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/278945b7e41973a427902647c0f93296964aa1b5)
+3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3a059aabde3f96b7ec5b50ac3720045755fb1aa8)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/7cf926758c956a25e02cf70f8388b34aacd949f9)
+5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/567f3fb682c30fdda1ae5cb22a922be8eb8e59d1)
+6. 📝 Committed to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/26a3b57fc4274d6f83b22a4d7009bcf2dce1158b)
+7. 📝 Committed to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/eb9417f051d85eb071885087d9fe810e22d3d37b)
+8. 📝 Committed to [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/614df901cbc41190063e3937c28e578cfa7dd73f)
+9. ⭐ Starred [nullcpy/rvb](https://github.com/nullcpy/rvb)
+10. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/f05f2178e59a8e5d74e4822d50beca54f7aec0bb)
 <!--END_SECTION:activity-->
