@@ -1,4 +1,4 @@
-name: activity
+name: github-activity
 
 on:
   schedule:
@@ -17,4 +17,4 @@ jobs:
         with:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: 'Update activity'
+          COMMIT_MESSAGE: 'Update github-activity'
