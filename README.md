@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/d741744bd1db04f8e41a303fc98f4467277b1dd8)
-3. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/83b5565fb476196a4b8ce453b7c24837c2c5c1e9)
-4. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/1e6154480cd2e9cf0c30a233c7ae6b17ffd88af1)
-5. 📝 Committed to a private repo
-6. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/3fcc7ac3920f2565e789b0e67c8e21241d2b46fc)
-7. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/540d33a4f0a00a933aaf8d8e6598b16ea814c1f8)
-8. 📝 Committed to a private repo
-9. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/31342b351a1aef340377fd2cf6cc62400e617b10)
-10. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/b16d3667cfa1473cae8ec0f5d455e33856db7fb9)
+1. ⭐ Starred [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate)
+2. ⭐ Starred [ipinfo/mmdbctl](https://github.com/ipinfo/mmdbctl)
+3. 📝 Committed to a private repo
+4. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/d741744bd1db04f8e41a303fc98f4467277b1dd8)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/83b5565fb476196a4b8ce453b7c24837c2c5c1e9)
+6. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/1e6154480cd2e9cf0c30a233c7ae6b17ffd88af1)
+7. 📝 Committed to a private repo
+8. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/3fcc7ac3920f2565e789b0e67c8e21241d2b46fc)
+9. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/540d33a4f0a00a933aaf8d8e6598b16ea814c1f8)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
