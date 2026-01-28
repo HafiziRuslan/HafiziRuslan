@@ -114,13 +114,13 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. ⭐ Starred [shakilofficial0/adv-speedtest-cli](https://github.com/shakilofficial0/adv-speedtest-cli)
-4. ⭐ Starred [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
-5. ⭐ Starred [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate)
-6. ⭐ Starred [ipinfo/mmdbctl](https://github.com/ipinfo/mmdbctl)
+2. 📥 Opened [PR #42](https://github.com/takitsu21/speedtest/pull/42) in [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
+3. 📝 Committed to [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli/commit/1b4330847e62015ee30e2627ba80cd4fbeb07a67)
+4. 🎉 Created a new branch [`fix/json-typeerror`](https://github.com/HafiziRuslan/speedtest-cli/tree/fix/json-typeerror) in [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli)
+5. 🍴 Forked [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
+6. 🆕 Opened an issue [#41](https://github.com/takitsu21/speedtest/issues/41) in [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
 7. 📝 Committed to a private repo
-8. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/d741744bd1db04f8e41a303fc98f4467277b1dd8)
-9. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/83b5565fb476196a4b8ce453b7c24837c2c5c1e9)
-10. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/1e6154480cd2e9cf0c30a233c7ae6b17ffd88af1)
+8. 📝 Committed to a private repo
+9. ⭐ Starred [shakilofficial0/adv-speedtest-cli](https://github.com/shakilofficial0/adv-speedtest-cli)
+10. ⭐ Starred [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
 <!--END_SECTION:activity-->
