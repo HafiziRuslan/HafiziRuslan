@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/85d3dd05dc6d439d5222c1970ea5f17c3f108583)
-2. 🗑️ Deleted a branch `dependabot/npm_and_yarn/lodash-4.17.23` in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
-3. ❌ Closed [PR #6](https://github.com/HafiziRuslan/wpp-backend/pull/6) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
-4. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/79ef4c4501b0d9ce271cb033b63c26cefcbd872d)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/4db6e227c17685e4b301bfab3d70f1dd68ec7c2d)
-6. 📝 Committed to a private repo
-7. 📥 Opened [PR #42](https://github.com/takitsu21/speedtest/pull/42) in [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
-8. 📝 Committed to [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli/commit/1b4330847e62015ee30e2627ba80cd4fbeb07a67)
-9. 🎉 Created a new branch [`fix/json-typeerror`](https://github.com/HafiziRuslan/speedtest-cli/tree/fix/json-typeerror) in [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli)
-10. 🍴 Forked [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
+1. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/7c6e6c7d996fe7b92a13a0219a2ca838fad218d0)
+2. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3f0ab040321029889a63c3cbdf69e5b297a9ef31)
+3. 📝 Committed to a private repo
+4. ⭐ Starred [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae)
+5. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/85d3dd05dc6d439d5222c1970ea5f17c3f108583)
+6. 🗑️ Deleted a branch `dependabot/npm_and_yarn/lodash-4.17.23` in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
+7. ❌ Closed [PR #6](https://github.com/HafiziRuslan/wpp-backend/pull/6) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
+8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/79ef4c4501b0d9ce271cb033b63c26cefcbd872d)
+9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/4db6e227c17685e4b301bfab3d70f1dd68ec7c2d)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
