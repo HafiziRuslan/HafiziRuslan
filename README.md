@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/7c6e6c7d996fe7b92a13a0219a2ca838fad218d0)
-2. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3f0ab040321029889a63c3cbdf69e5b297a9ef31)
-3. 📝 Committed to a private repo
-4. ⭐ Starred [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae)
-5. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/85d3dd05dc6d439d5222c1970ea5f17c3f108583)
-6. 🗑️ Deleted a branch `dependabot/npm_and_yarn/lodash-4.17.23` in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
-7. ❌ Closed [PR #6](https://github.com/HafiziRuslan/wpp-backend/pull/6) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
-8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/79ef4c4501b0d9ce271cb033b63c26cefcbd872d)
-9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/4db6e227c17685e4b301bfab3d70f1dd68ec7c2d)
-10. 📝 Committed to a private repo
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1b906d11b746b1dc5111300760f1333da078a2b8)
+2. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/048aebc0d1fc9093c73e799c2c1dad4292c65b05)
+4. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/7c6e6c7d996fe7b92a13a0219a2ca838fad218d0)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3f0ab040321029889a63c3cbdf69e5b297a9ef31)
+6. 📝 Committed to a private repo
+7. ⭐ Starred [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae)
+8. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/85d3dd05dc6d439d5222c1970ea5f17c3f108583)
+9. 🗑️ Deleted a branch `dependabot/npm_and_yarn/lodash-4.17.23` in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
+10. ❌ Closed [PR #6](https://github.com/HafiziRuslan/wpp-backend/pull/6) in [HafiziRuslan/wpp-backend](https://github.com/HafiziRuslan/wpp-backend)
 <!--END_SECTION:activity-->
