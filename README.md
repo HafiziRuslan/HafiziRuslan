@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)
-2. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/1e6bfa7bb1cff873a2238ef4fbc4c655d9e74d27)
-3. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/d310169780dbc5e092fa24c0bc42b1cded601f80)
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1b906d11b746b1dc5111300760f1333da078a2b8)
-5. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
-6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/048aebc0d1fc9093c73e799c2c1dad4292c65b05)
-7. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/7c6e6c7d996fe7b92a13a0219a2ca838fad218d0)
-8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3f0ab040321029889a63c3cbdf69e5b297a9ef31)
-9. 📝 Committed to a private repo
-10. ⭐ Starred [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae)
+1. 🔀 Merged [PR #42](https://github.com/takitsu21/speedtest/pull/42) in [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
+2. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)
+3. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/1e6bfa7bb1cff873a2238ef4fbc4c655d9e74d27)
+4. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/d310169780dbc5e092fa24c0bc42b1cded601f80)
+5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1b906d11b746b1dc5111300760f1333da078a2b8)
+6. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/048aebc0d1fc9093c73e799c2c1dad4292c65b05)
+8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/7c6e6c7d996fe7b92a13a0219a2ca838fad218d0)
+9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3f0ab040321029889a63c3cbdf69e5b297a9ef31)
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
