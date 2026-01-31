@@ -70,25 +70,25 @@ Sunday                   297 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   2 hrs               ████████░░░░░░░░░░░░░░░░░   30.82 % 
-PHP                      1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Text                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Python                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+PHP                      1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Text                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       ██████████████████████░░░   88.06 % 
-Edge                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+VS Code                  4 hrs 52 mins       ██████████████████████░░░   87.92 % 
+Edge                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 🐱‍💻 Projects: 
-raspiaprs                2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.08 % 
-RasPi-Backups            1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-MMDVM-Hosts-Overwrite    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-WebCode                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Scripts                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+raspiaprs                1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+RasPi-Backups            57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+MMDVM-Hosts-Overwrite    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+WebCode                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+mmdvmlhbot               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 💻 Operating System: 
-Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
