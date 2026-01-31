@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged [PR #42](https://github.com/takitsu21/speedtest/pull/42) in [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
-2. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)
-3. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/1e6bfa7bb1cff873a2238ef4fbc4c655d9e74d27)
-4. 📝 Committed to [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/d310169780dbc5e092fa24c0bc42b1cded601f80)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1b906d11b746b1dc5111300760f1333da078a2b8)
-6. ⭐ Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
-7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/048aebc0d1fc9093c73e799c2c1dad4292c65b05)
-8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/7c6e6c7d996fe7b92a13a0219a2ca838fad218d0)
-9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3f0ab040321029889a63c3cbdf69e5b297a9ef31)
-10. 📝 Committed to a private repo
+1. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-36b254c886` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+2. ❌ Closed [PR #6](https://github.com/HafiziRuslan/wpp-server/pull/6) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+3. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-c54adb9dfc` in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+4. ❌ Closed [PR #2](https://github.com/HafiziRuslan/wpp-frontend/pull/2) in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+5. 🗑️ Deleted a branch `fix/json-typeerror` in [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli)
+6. 📝 Committed to [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli/commit/40203147d02d8d9667668ba11f971c23c59db740)
+7. 📝 Committed to [HafiziRuslan/speedtest-cli](https://github.com/HafiziRuslan/speedtest-cli/commit/a2f55185bea8059c4f3162fb641b2b3fa1eb54d3)
+8. 🔀 Merged [PR #42](https://github.com/takitsu21/speedtest/pull/42) in [takitsu21/speedtest](https://github.com/takitsu21/speedtest)
+9. ⭐ Starred [tmux/tmux](https://github.com/tmux/tmux)
+10. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/1e6bfa7bb1cff873a2238ef4fbc4c655d9e74d27)
 <!--END_SECTION:activity-->
