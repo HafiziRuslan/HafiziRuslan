@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/734a35f89c8f7b6ed8a415337e32e40432df8200)
-2. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/6306f833163c083bafae874a74410343240a89b6)
-3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/979f2ff8b5d1490adece7ec0ed67ec474c5b5854)
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/542fbe9806f5c6bb3da0d5f4a646d61049491e3e)
-5. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/96075fdf4969cf19f619f75e11b5a5a14c02aafa)
-6. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/e1b1a927b8c693b047bafcc75fce09f24391cd00)
-7. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-36b254c886` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
-8. ❌ Closed [PR #6](https://github.com/HafiziRuslan/wpp-server/pull/6) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
-9. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-c54adb9dfc` in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
-10. ❌ Closed [PR #2](https://github.com/HafiziRuslan/wpp-frontend/pull/2) in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c98b7976f73349a470820dc1b1eac6aee6cecb8b)
+2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/226b05f3d1a51a862dd719105da1608bce3f0227)
+3. 📝 Committed to a private repo
+4. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/734a35f89c8f7b6ed8a415337e32e40432df8200)
+5. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/6306f833163c083bafae874a74410343240a89b6)
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/979f2ff8b5d1490adece7ec0ed67ec474c5b5854)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/542fbe9806f5c6bb3da0d5f4a646d61049491e3e)
+8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/96075fdf4969cf19f619f75e11b5a5a14c02aafa)
+9. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/e1b1a927b8c693b047bafcc75fce09f24391cd00)
+10. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-36b254c886` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
 <!--END_SECTION:activity-->
