@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c98b7976f73349a470820dc1b1eac6aee6cecb8b)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/226b05f3d1a51a862dd719105da1608bce3f0227)
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/734a35f89c8f7b6ed8a415337e32e40432df8200)
-5. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/6306f833163c083bafae874a74410343240a89b6)
-6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/979f2ff8b5d1490adece7ec0ed67ec474c5b5854)
-7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/542fbe9806f5c6bb3da0d5f4a646d61049491e3e)
-8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/96075fdf4969cf19f619f75e11b5a5a14c02aafa)
-9. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/e1b1a927b8c693b047bafcc75fce09f24391cd00)
-10. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-36b254c886` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/eda33ec828c441a2b0d9b680824375c19807ddc2)
+5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1e1b4d8a22b3d2c81336052d8f7426dfe4e326ce)
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c98b7976f73349a470820dc1b1eac6aee6cecb8b)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/226b05f3d1a51a862dd719105da1608bce3f0227)
+8. 📝 Committed to a private repo
+9. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/734a35f89c8f7b6ed8a415337e32e40432df8200)
+10. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/6306f833163c083bafae874a74410343240a89b6)
 <!--END_SECTION:activity-->
