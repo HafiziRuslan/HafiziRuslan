@@ -111,14 +111,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/eda33ec828c441a2b0d9b680824375c19807ddc2)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1e1b4d8a22b3d2c81336052d8f7426dfe4e326ce)
-6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c98b7976f73349a470820dc1b1eac6aee6cecb8b)
-7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/226b05f3d1a51a862dd719105da1608bce3f0227)
-8. 📝 Committed to a private repo
-9. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/734a35f89c8f7b6ed8a415337e32e40432df8200)
-10. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/6306f833163c083bafae874a74410343240a89b6)
+1. ⭐ Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+2. 🔔 Watching [ogham/exa](https://github.com/ogham/exa)
+3. ⭐ Starred [jqlang/jq](https://github.com/jqlang/jq)
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/eda33ec828c441a2b0d9b680824375c19807ddc2)
+8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1e1b4d8a22b3d2c81336052d8f7426dfe4e326ce)
+9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c98b7976f73349a470820dc1b1eac6aee6cecb8b)
+10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/226b05f3d1a51a862dd719105da1608bce3f0227)
 <!--END_SECTION:activity-->
