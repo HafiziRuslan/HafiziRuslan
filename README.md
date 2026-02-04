@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/4fa5e99e653c90dd79c5aa2a9ab6df388cc78eea)
-2. ⭐ Starred [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
-3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/464bb9e4439928a89396ab3f8ed1b3a89b9fb346)
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/d210904988f46bbb1fdd6f8e3350567959d4d2f6)
-5. ⭐ Starred [dag0310/speedtests](https://github.com/dag0310/speedtests)
-6. ⭐ Starred [stefanwalther/speedy](https://github.com/stefanwalther/speedy)
-7. ⭐ Starred [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker)
-8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/5ee9dcf42d6944c58722982bd36278d3bdb5892a)
-9. ⭐ Starred [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE)
-10. ⭐ Starred [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach)
+1. ⭐ Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+2. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/4fa5e99e653c90dd79c5aa2a9ab6df388cc78eea)
+3. ⭐ Starred [raspberrypi/firmware](https://github.com/raspberrypi/firmware)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/464bb9e4439928a89396ab3f8ed1b3a89b9fb346)
+5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/d210904988f46bbb1fdd6f8e3350567959d4d2f6)
+6. ⭐ Starred [dag0310/speedtests](https://github.com/dag0310/speedtests)
+7. ⭐ Starred [stefanwalther/speedy](https://github.com/stefanwalther/speedy)
+8. ⭐ Starred [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker)
+9. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/5ee9dcf42d6944c58722982bd36278d3bdb5892a)
+10. ⭐ Starred [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE)
 <!--END_SECTION:activity-->
