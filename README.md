@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-577.85%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -70,25 +70,25 @@ Sunday                   303 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   41.08 % 
-Bash                     1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   31.55 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Nginx configuration file 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   53.16 % 
+Bash                     1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        ██████████████████████░░░   89.49 % 
-Edge                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+VS Code                  5 hrs 26 mins       ████████████████████████░   94.60 % 
+Edge                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🐱‍💻 Projects: 
-raspiaprs                3 hrs 3 mins        █████████████████░░░░░░░░   66.49 % 
-RasPi-Backups            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-git-actions              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-ChroGPS-Dash             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-mmdvmlhbot               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+raspiaprs                4 hrs 16 mins       ███████████████████░░░░░░   74.26 % 
+RasPi-Backups            29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+git-actions              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+ChroGPS-Dash             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+mmdvmlhbot               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
