@@ -70,25 +70,25 @@ Sunday                   303 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   53.16 % 
-Bash                     1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.64 % 
+Bash                     1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   37.35 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       ████████████████████████░   94.60 % 
-Edge                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+VS Code                  3 hrs 40 mins       ███████████████████████░░   92.20 % 
+Edge                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🐱‍💻 Projects: 
-raspiaprs                4 hrs 16 mins       ███████████████████░░░░░░   74.26 % 
-RasPi-Backups            29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-git-actions              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-ChroGPS-Dash             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-mmdvmlhbot               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+raspiaprs                2 hrs 46 mins       █████████████████░░░░░░░░   69.56 % 
+RasPi-Backups            29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+git-actions              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+ChroGPS-Dash             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+WebCode                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
