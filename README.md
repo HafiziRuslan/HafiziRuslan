@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-582.93%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -70,23 +70,22 @@ Sunday                   314 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Bash                     1 hr 19 mins        ███████████░░░░░░░░░░░░░░   42.63 % 
-Python                   1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   40.86 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Nginx configuration file 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Python                   1 hr 15 mins        █████████████████░░░░░░░░   69.22 % 
+Bash                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Nginx configuration file 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   98.86 % 
-Edge                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  1 hr 48 mins        █████████████████████████   99.37 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-raspiaprs                2 hrs 13 mins       ██████████████████░░░░░░░   72.25 % 
-RasPi-Backups            31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-ChroGPS-Dash             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+raspiaprs                1 hr 20 mins        ██████████████████░░░░░░░   73.18 % 
+RasPi-Backups            29 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
