@@ -110,12 +110,12 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗑️ Deleted a branch `dependabot/submodules/master/libs/hbb_common-28ac03a` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-2. ❌ Closed [PR #56](https://github.com/RoIPMARS/rustdesk/pull/56) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-3. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/067fab2b73f48c25e6f1843d27e8e5457f0a9550)
-4. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/de6bf9dc7eeece2c4a5b0ee46b42d55cd1e8c499)
-5. ⭐ Starred [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX)
-6. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. 🗑️ Deleted a branch `dependabot/submodules/master/libs/hbb_common-28ac03a` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
+3. ❌ Closed [PR #56](https://github.com/RoIPMARS/rustdesk/pull/56) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
+4. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/067fab2b73f48c25e6f1843d27e8e5457f0a9550)
+5. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/de6bf9dc7eeece2c4a5b0ee46b42d55cd1e8c499)
+6. ⭐ Starred [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX)
 7. 📝 Committed to a private repo
 8. 📝 Committed to a private repo
 9. 📝 Committed to a private repo
