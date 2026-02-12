@@ -110,14 +110,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/2842315b1d189ec0b9e5ee34954e6095947afb14)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/8432229bce24a9ecf315cf2028c6f6e7279d6100)
-3. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/669a456e0b04f9a4238b7c953f78159deae4d619)
-4. 📝 Committed to a private repo
-5. 🗑️ Deleted a branch `dependabot/submodules/master/libs/hbb_common-28ac03a` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-6. ❌ Closed [PR #56](https://github.com/RoIPMARS/rustdesk/pull/56) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-7. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/067fab2b73f48c25e6f1843d27e8e5457f0a9550)
-8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/de6bf9dc7eeece2c4a5b0ee46b42d55cd1e8c499)
-9. ⭐ Starred [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX)
-10. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-2a868c9827` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+3. ❌ Closed [PR #7](https://github.com/HafiziRuslan/wpp-server/pull/7) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
+4. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-c54adb9dfc` in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+5. ❌ Closed [PR #3](https://github.com/HafiziRuslan/wpp-frontend/pull/3) in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+6. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/2842315b1d189ec0b9e5ee34954e6095947afb14)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/8432229bce24a9ecf315cf2028c6f6e7279d6100)
+8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/669a456e0b04f9a4238b7c953f78159deae4d619)
+9. 📝 Committed to a private repo
+10. 🗑️ Deleted a branch `dependabot/submodules/master/libs/hbb_common-28ac03a` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
 <!--END_SECTION:activity-->
