@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-587.44%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -70,21 +70,21 @@ Sunday                   314 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Nginx configuration file 5 mins              ██████████████░░░░░░░░░░░   57.14 % 
-Crontab                  2 mins              ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Bash                     35 mins             █████████████████░░░░░░░░   66.01 % 
+Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Nginx configuration file 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Crontab                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  8 mins              ███████████████████████░░   92.59 % 
-Edge                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+VS Code                  52 mins             █████████████████████████   98.71 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-RasPi-Backups            9 mins              █████████████████████████   100.00 % 
+RasPi-Backups            53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
