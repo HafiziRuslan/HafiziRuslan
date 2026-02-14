@@ -109,14 +109,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 📝 Committed to a private repo
-3. ⭐ Starred [mklement0/n-install](https://github.com/mklement0/n-install)
-4. ⭐ Starred [tj/n](https://github.com/tj/n)
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3534e134888b89a133f7c792086d931725466416)
+2. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/8d7bc7e4d248b9dda3ad72dfae43e88c3f275ed4)
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-2a868c9827` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
-8. ❌ Closed [PR #7](https://github.com/HafiziRuslan/wpp-server/pull/7) in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
-9. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-c54adb9dfc` in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
-10. ❌ Closed [PR #3](https://github.com/HafiziRuslan/wpp-frontend/pull/3) in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+6. ⭐ Starred [mklement0/n-install](https://github.com/mklement0/n-install)
+7. ⭐ Starred [tj/n](https://github.com/tj/n)
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-2a868c9827` in [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server)
 <!--END_SECTION:activity-->
