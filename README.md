@@ -109,14 +109,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/980bc11e68487cccb0f3e31c3acccd878cb0ef61)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3534e134888b89a133f7c792086d931725466416)
-3. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/8d7bc7e4d248b9dda3ad72dfae43e88c3f275ed4)
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/980bc11e68487cccb0f3e31c3acccd878cb0ef61)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3534e134888b89a133f7c792086d931725466416)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/8d7bc7e4d248b9dda3ad72dfae43e88c3f275ed4)
 6. 📝 Committed to a private repo
-7. ⭐ Starred [mklement0/n-install](https://github.com/mklement0/n-install)
-8. ⭐ Starred [tj/n](https://github.com/tj/n)
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. ⭐ Starred [mklement0/n-install](https://github.com/mklement0/n-install)
+10. ⭐ Starred [tj/n](https://github.com/tj/n)
 <!--END_SECTION:activity-->
