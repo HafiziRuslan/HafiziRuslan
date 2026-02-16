@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588.45%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 > 📦 54.3 kB Used in GitHub's Storage 
  > 
-> 🏆 382 Contributions in the Year 2026
+> 🏆 383 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,20 +47,20 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                562 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-🌆 Daytime                635 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-🌃 Evening                1037 commits        ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌙 Night                  1201 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
+🌆 Daytime                636 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌃 Evening                1037 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌙 Night                  1201 commits        █████████░░░░░░░░░░░░░░░░   34.95 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   515 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Tuesday                  687 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                577 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 635 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Monday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Tuesday                  687 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Wednesday                577 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Thursday                 635 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 Friday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Saturday                 354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Sunday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Saturday                 354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Sunday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 
 
@@ -70,21 +70,23 @@ Sunday                   318 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Bash                     35 mins             █████████████████░░░░░░░░   66.01 % 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Nginx configuration file 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Crontab                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Bash                     36 mins             ███████████████░░░░░░░░░░   60.09 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Nginx configuration file 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   98.71 % 
-Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+VS Code                  1 hr                █████████████████████████   98.87 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-RasPi-Backups            53 mins             █████████████████████████   100.00 % 
+RasPi-Backups            50 mins             █████████████████████░░░░   83.23 % 
+mmdvmlhbot               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+raspiaprs                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
