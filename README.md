@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588.50%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -43,52 +43,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                562 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-🌆 Daytime                636 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-🌃 Evening                1037 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
-🌙 Night                  1203 commits        █████████░░░░░░░░░░░░░░░░   34.99 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  689 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Wednesday                577 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Thursday                 635 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Friday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Saturday                 354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Sunday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-Bash                     36 mins             ███████████████░░░░░░░░░░   60.09 % 
-Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Nginx configuration file 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-
-🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   98.87 % 
-Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-
-🐱‍💻 Projects: 
-RasPi-Backups            50 mins             █████████████████████░░░░   83.23 % 
-mmdvmlhbot               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-raspiaprs                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-
-💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
