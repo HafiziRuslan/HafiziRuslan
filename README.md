@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.76%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 54.2 kB Used in GitHub's Storage 
+> 📦 54.3 kB Used in GitHub's Storage 
  > 
 > 🏆 400 Contributions in the Year 2026
  > 
@@ -70,22 +70,22 @@ Sunday                   318 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Bash                     41 mins             █████████████████░░░░░░░░   66.01 % 
-Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Bash                     41 mins             ███████████████░░░░░░░░░░   59.23 % 
+Nginx configuration file 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RasPi-Backups            44 mins             ██████████████████░░░░░░░   70.55 % 
-raspiaprs                11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-mmdvmlhbot               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+RasPi-Backups            51 mins             ██████████████████░░░░░░░   73.57 % 
+raspiaprs                11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+mmdvmlhbot               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
