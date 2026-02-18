@@ -110,14 +110,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/ce1c2f6e3460cd60bcb44cf4acbec1322ae6bbc0)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 🔔 Watching [nginx/nginx.org](https://github.com/nginx/nginx.org)
+1. ⭐ Starred [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync)
+2. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
+3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/ce1c2f6e3460cd60bcb44cf4acbec1322ae6bbc0)
+4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c7089bac7003f78c309078acecf6e85ae454d700)
-8. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/779b7aaf0265b0fe22e1d71b364c405db3d2231e)
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+6. 🔔 Watching [nginx/nginx.org](https://github.com/nginx/nginx.org)
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c7089bac7003f78c309078acecf6e85ae454d700)
+10. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/779b7aaf0265b0fe22e1d71b364c405db3d2231e)
 <!--END_SECTION:activity-->
