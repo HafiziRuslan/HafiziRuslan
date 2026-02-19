@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-590.79%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -70,22 +70,22 @@ Sunday                   318 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Bash                     41 mins             ███████████████░░░░░░░░░░   59.23 % 
-Nginx configuration file 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Python                   2 hrs 12 mins       ████████████████░░░░░░░░░   65.26 % 
+Bash                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Nginx configuration file 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RasPi-Backups            51 mins             ██████████████████░░░░░░░   73.57 % 
-raspiaprs                11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-mmdvmlhbot               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+raspiaprs                2 hrs 22 mins       ██████████████████░░░░░░░   70.48 % 
+RasPi-Backups            52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+mmdvmlhbot               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
