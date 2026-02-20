@@ -110,14 +110,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bc7355cb1fe1660eee156a8eb33f64435314cdc7)
-2. 📝 Committed to a private repo
-3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/20185ae596044f3b7f744397bea4d4ff9fa78bd7)
+2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/b7bcac9f8a80f1e705695abe277796eeb2ecc724)
+3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/6054d49cb382c9ee04b864f52ca469520b8c92f1)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/b1c8c2191008e3136e1e1ed43eb1cbe8de1c1720)
+5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bc7355cb1fe1660eee156a8eb33f64435314cdc7)
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/cd54ca65edd1380bb8895e8c2fd8007fc4957e94)
-9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/f9d85873cc046aaf26e09ac3935f4f8ce7d96f71)
-10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e4a51180f5016a613a7fdc00b8679b956c2cfc20)
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
