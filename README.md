@@ -110,14 +110,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/cd54ca65edd1380bb8895e8c2fd8007fc4957e94)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/f9d85873cc046aaf26e09ac3935f4f8ce7d96f71)
-3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e4a51180f5016a613a7fdc00b8679b956c2cfc20)
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/6404d8b593c11f18ff9aecc73108f77c87228145)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/4d1940eca11f79059a4f9facc853a385c145e3fc)
-6. 📝 Committed to a private repo
-7. 🗑️ Deleted a branch `dependabot/submodules/master/libs/hbb_common-0b60b9f` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-8. ❌ Closed [PR #57](https://github.com/RoIPMARS/rustdesk/pull/57) in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-9. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/34ceeac36e866b7aaae888683cd8b17752ea7a57)
-10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/8656b7669db260054e2972316750200621de367b)
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/cd54ca65edd1380bb8895e8c2fd8007fc4957e94)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/f9d85873cc046aaf26e09ac3935f4f8ce7d96f71)
+8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e4a51180f5016a613a7fdc00b8679b956c2cfc20)
+9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/6404d8b593c11f18ff9aecc73108f77c87228145)
+10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/4d1940eca11f79059a4f9facc853a385c145e3fc)
 <!--END_SECTION:activity-->
