@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3da3b491fe4328d02f9ebc8612838862a3431d8a)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c47ec4b7b60973a5d599b7112a5a13b08ea7fed3)
-3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bca9ece8a866a20ea5f68f9b6ee41fab352c7895)
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/b0ba844f58a94e3c9cc1f7e5047211d10a18bd60)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9cfc0bd07297febb0533ebce7f843f53d4df1c6b)
-6. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-c54adb9dfc` in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
-7. ❌ Closed [PR #5](https://github.com/HafiziRuslan/wpp-frontend/pull/5) in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
-8. 📝 Committed to a private repo
-9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/e8ad7f2a71b400f5d00764958553f779165fb4c4)
-10. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/aeaad0ec6e6704747e6d18cee7485a1853a80bb4)
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/96d719db63739fd4b5677f3141c1c5333ca48cbe)
+2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/6e14b8b676ccb24e59ee7c8cc3f4e782196a2a5b)
+3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/f461d81856ef41e68c4bfa2dd242072d07d7999a)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/d906f24b9cefee52af719bcfb7f4ff4ff5a2bc2e)
+5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/cc61f210fd7377ab962979fb5e802b7a5ef6eaa6)
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/1d1273ec67b2f84d845cb3cd3284e76e2184c12d)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/f1fd95410fea59a7867d367d3221653a0da1a308)
+8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/86f32038d639d3d6af3aa9360b37ebcd8c8d2013)
+9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/85fd4d62b6f6e73b2bac99b5d964e3b4007a4d22)
+10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/8852aa5059dbbb0e16780f0c5ee32bb4c5d81944)
 <!--END_SECTION:activity-->
