@@ -112,14 +112,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/70e0b8f13362d21d86b71001b835a6ddcc0efe1f)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/4fab0f903b046fc2ecf2f30fc29e6df8c290790e)
-3. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/72a5062cc8056004752f02d477d42c9e792de55d)
-4. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/96991d6c5e75ab4074d035ae2cf1a039a5e31a2b)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/b557f26475534cd8c876a3a1ce2db3a4966a47ba)
-6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/cb7442f782c942e136d1c443661eae057f57a10e)
-7. 📝 Committed to a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/202883ccb1fa20cc53aa8d1df164a24e35911613)
-10. 📝 Committed to [HafiziRuslan/wpp-server](https://github.com/HafiziRuslan/wpp-server/commit/54d322127aae128daa7f10ed73d6a467e524a9d8)
+1. 🗑️ Deleted a branch `dependabot/npm_and_yarn/npm_and_yarn-c54adb9dfc` in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+2. ❌ Closed [PR #5](https://github.com/HafiziRuslan/wpp-frontend/pull/5) in [HafiziRuslan/wpp-frontend](https://github.com/HafiziRuslan/wpp-frontend)
+3. 📝 Committed to a private repo
+4. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/e8ad7f2a71b400f5d00764958553f779165fb4c4)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/aeaad0ec6e6704747e6d18cee7485a1853a80bb4)
+6. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/f858c873bb460e533f387ca9f4ce79fcd3063ddc)
+7. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/be300067d65f56b4cfc3d1efe439a3d3d52090a7)
+8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/3cd20c252a04e4b1ea8e9ded4dd5e5779360adce)
+9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/d5920e195d79e2ac062429e65e8178f4d0c123e1)
+10. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/70e0b8f13362d21d86b71001b835a6ddcc0efe1f)
 <!--END_SECTION:activity-->
