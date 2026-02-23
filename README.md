@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c7dadcbf2a0fd446ac54887ec1e69bce1693f4ae)
 2. 📝 Committed to a private repo
-3. ⭐ Starred [connectbot/connectbot](https://github.com/connectbot/connectbot)
-4. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
-5. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/096b3925ad17c5f8a8fcf561ace9fd2eef38f169)
-6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bf0af25e77dbc59bc9445c580428fc4608e17eb5)
-7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9bd7cf625409dc580ef87e1df32d01bfe650341f)
-8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/18e2c1830a59a7ffb4f64b3aa2792d71f4187d50)
-9. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. ⭐ Starred [connectbot/connectbot](https://github.com/connectbot/connectbot)
+5. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/096b3925ad17c5f8a8fcf561ace9fd2eef38f169)
+7. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bf0af25e77dbc59bc9445c580428fc4608e17eb5)
+8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9bd7cf625409dc580ef87e1df32d01bfe650341f)
+9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/18e2c1830a59a7ffb4f64b3aa2792d71f4187d50)
 10. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
