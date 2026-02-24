@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/20613101cde2df47bf2f0db03a544db2f9270e5c)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/417aaedeeaff34a930fcf21c2f3dcd2cb35b388f)
-3. 📝 Committed to a private repo
-4. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/17a3f2ae52929fc63bfa3d8b92811632f3619c3f)
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to a private repo
-8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c7dadcbf2a0fd446ac54887ec1e69bce1693f4ae)
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
+1. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/16fd33c17771e2f1b736b350e4858d191541d9db)
+2. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/73d2cb5c78bcb0e535938d1d9a99808df79a5bdb)
+3. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/ea068c2d31d78a24fe360bd9f2d01e93b9f89e22)
+4. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/050ed11b8dd982a1cba53ab4c0e364fa2b023838)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/0f91a59b9a6dd6f08323d107bcdec0d1b8d1bbec)
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/df59769be9cac11fd9d6be704802f973a40a2372)
+7. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/171ffb4bdf649b8b2cdb031209bfb55d181b5302)
+8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/6cfee16b09f2498c099873756e6824c52b6a83ad)
+9. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/82a9fd15404368c43824c55f65b5e2c79fda9293)
+10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/22b167e11c9b62fcb62e13d521772cdf909a9276)
 <!--END_SECTION:activity-->
