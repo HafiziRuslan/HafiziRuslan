@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
   workflow_run:
     workflows:
-      - github-activity
+      - gh-activity
       - metrics
       - stats
     types:
