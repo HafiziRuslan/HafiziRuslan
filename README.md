@@ -113,14 +113,14 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [lyonel/lshw](https://github.com/lyonel/lshw)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a90e8954788f7e111abbd9a502030c6173a0e4ed)
-3. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/43364630d5637263a36010b389988a6e5bf01e4f)
-4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/17a7f6371f768849d5257c53e41c96763669aa09)
-5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/16fd33c17771e2f1b736b350e4858d191541d9db)
-6. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/73d2cb5c78bcb0e535938d1d9a99808df79a5bdb)
-7. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/ea068c2d31d78a24fe360bd9f2d01e93b9f89e22)
-8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/050ed11b8dd982a1cba53ab4c0e364fa2b023838)
-9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/0f91a59b9a6dd6f08323d107bcdec0d1b8d1bbec)
-10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/df59769be9cac11fd9d6be704802f973a40a2372)
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/eef34d7a36fec0518f000bb4d719d4ca285db6ec)
+2. 📝 Committed to a private repo
+3. ⭐ Starred [lyonel/lshw](https://github.com/lyonel/lshw)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a90e8954788f7e111abbd9a502030c6173a0e4ed)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/43364630d5637263a36010b389988a6e5bf01e4f)
+6. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/17a7f6371f768849d5257c53e41c96763669aa09)
+7. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/16fd33c17771e2f1b736b350e4858d191541d9db)
+8. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/73d2cb5c78bcb0e535938d1d9a99808df79a5bdb)
+9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/ea068c2d31d78a24fe360bd9f2d01e93b9f89e22)
+10. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/050ed11b8dd982a1cba53ab4c0e364fa2b023838)
 <!--END_SECTION:activity-->
