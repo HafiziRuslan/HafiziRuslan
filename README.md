@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-599.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-599.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 54.4 kB Used in GitHub's Storage 
  > 
-> 🏆 576 Contributions in the Year 2026
+> 🏆 582 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +46,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-🌆 Daytime                636 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-🌃 Evening                1083 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-🌙 Night                  1317 commits        █████████░░░░░░░░░░░░░░░░   36.29 % 
+🌞 Morning                593 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+🌆 Daytime                636 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌃 Evening                1089 commits        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌙 Night                  1317 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   535 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Tuesday                  715 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Wednesday                618 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Thursday                 635 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Friday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Saturday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Monday                   535 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Tuesday                  715 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Wednesday                624 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Thursday                 635 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Friday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Saturday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday                   358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 
 
@@ -70,25 +70,25 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   15 hrs 15 mins      ██████████████████░░░░░░░   71.24 % 
-Bash                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-TOML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-PHP                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   16 hrs 36 mins      █████████████████░░░░░░░░   67.35 % 
+Bash                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+TOML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+PHP                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 9 mins       █████████████████████████   98.83 % 
-Edge                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+VS Code                  24 hrs 25 mins      █████████████████████████   98.98 % 
+Edge                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-raspiaprs                15 hrs 39 mins      ██████████████████░░░░░░░   73.12 % 
-mmdvmlhbot               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-RasPi-Backups            2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-server                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-WebCode                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+raspiaprs                16 hrs 56 mins      █████████████████░░░░░░░░   68.68 % 
+RasPi-Backups            4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+mmdvmlhbot               2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+server                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+WebCode                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
