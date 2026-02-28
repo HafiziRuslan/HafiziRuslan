@@ -113,29 +113,29 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/1833cb0655d002a3beea4f972b8770c424d81d44)
-2. ⭐ Starred [aklepptv/ipv6-to-WPSD-DMR](https://github.com/aklepptv/ipv6-to-WPSD-DMR)
-3. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3fc3b6d5d6a840e0c333072d48858fd09521a3cd)
-4. 📝 Committed to a private repo
-5. 📝 Committed to a private repo
-6. 📝 Committed to a private repo
-7. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/4abdb2e08bd84ccff59571996ba465a7209553fc)
-8. 📝 Committed to a private repo
+1. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/799b2cef3c49f51558f8d9b35a896a3b801ce1fb)
+2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5e6e2c54cf0d7e7af74e34be564a2745f62bee9a)
+3. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/1f968c65931e417c75c684659f53ec7208288eb9)
+4. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/4030e36cee998736a24a8e75f0ec5d08a046c24d)
+5. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/65e6863e86d938675212d4c51dd2326f07d1266f)
+6. 🗑️ Deleted a tag `fdroid-version` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
+7. 🗑️ Deleted a tag `fdroid-version` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
+8. 🗑️ Deleted a tag `nightly` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
 9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
-11. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/2eab03626115851bd3147502433ffcd282112ea6)
-12. 📝 Committed to a private repo
+10. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/1833cb0655d002a3beea4f972b8770c424d81d44)
+11. ⭐ Starred [aklepptv/ipv6-to-WPSD-DMR](https://github.com/aklepptv/ipv6-to-WPSD-DMR)
+12. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3fc3b6d5d6a840e0c333072d48858fd09521a3cd)
 13. 📝 Committed to a private repo
-14. ⭐ Starred [FirstEverTech/Universal-Intel-Chipset-Updater](https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater)
-15. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bcd4bac6c07b52d2d7993c1b1a54d066f4865f20)
-16. 📝 Committed to a private repo
+14. 📝 Committed to a private repo
+15. 📝 Committed to a private repo
+16. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/4abdb2e08bd84ccff59571996ba465a7209553fc)
 17. 📝 Committed to a private repo
 18. 📝 Committed to a private repo
 19. 📝 Committed to a private repo
-20. 📝 Committed to a private repo
+20. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/2eab03626115851bd3147502433ffcd282112ea6)
 21. 📝 Committed to a private repo
 22. 📝 Committed to a private repo
-23. 📝 Committed to a private repo
-24. 📝 Committed to a private repo
-25. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/49788fc9befd18dec3bdebbffb4ce86d46cf0a39)
+23. ⭐ Starred [FirstEverTech/Universal-Intel-Chipset-Updater](https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater)
+24. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/bcd4bac6c07b52d2d7993c1b1a54d066f4865f20)
+25. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
