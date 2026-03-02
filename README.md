@@ -114,28 +114,28 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 📝 Committed to a private repo
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/7c8ee367be97582e25ab99688d9f269b21817cfe)
+2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
-4. 📝 Committed to a private repo
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/7c8ee367be97582e25ab99688d9f269b21817cfe)
 5. 📝 Committed to a private repo
 6. 📝 Committed to a private repo
 7. 📝 Committed to a private repo
-8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a071a2ccb3da1c9f3fb45fc0b17eff71e17b7b3a)
-9. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/920cedbffb0da340fea3475a28c9db54bc7263d8)
-10. 📝 Committed to a private repo
-11. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a071a2ccb3da1c9f3fb45fc0b17eff71e17b7b3a)
+11. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/920cedbffb0da340fea3475a28c9db54bc7263d8)
 12. 📝 Committed to a private repo
-13. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/80a5865db3a49036d4d57b64455e8ff87cc39854)
+13. 📝 Committed to a private repo
 14. 📝 Committed to a private repo
-15. 📝 Committed to a private repo
+15. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/80a5865db3a49036d4d57b64455e8ff87cc39854)
 16. 📝 Committed to a private repo
-17. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/799b2cef3c49f51558f8d9b35a896a3b801ce1fb)
-18. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5e6e2c54cf0d7e7af74e34be564a2745f62bee9a)
-19. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/1f968c65931e417c75c684659f53ec7208288eb9)
-20. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/4030e36cee998736a24a8e75f0ec5d08a046c24d)
-21. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/65e6863e86d938675212d4c51dd2326f07d1266f)
-22. 🗑️ Deleted a tag `fdroid-version` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-23. 🗑️ Deleted a tag `fdroid-version` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-24. 🗑️ Deleted a tag `nightly` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
-25. 📝 Committed to a private repo
+17. 📝 Committed to a private repo
+18. 📝 Committed to a private repo
+19. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/799b2cef3c49f51558f8d9b35a896a3b801ce1fb)
+20. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5e6e2c54cf0d7e7af74e34be564a2745f62bee9a)
+21. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/1f968c65931e417c75c684659f53ec7208288eb9)
+22. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/4030e36cee998736a24a8e75f0ec5d08a046c24d)
+23. 📝 Committed to [HafiziRuslan/MMDVM-Last-Heard](https://github.com/HafiziRuslan/MMDVM-Last-Heard/commit/65e6863e86d938675212d4c51dd2326f07d1266f)
+24. 🗑️ Deleted a tag `fdroid-version` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
+25. 🗑️ Deleted a tag `fdroid-version` in [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk)
 <!--END_SECTION:activity-->
