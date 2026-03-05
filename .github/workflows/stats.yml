@@ -28,6 +28,6 @@ jobs:
           border-radius: 1
           show-border: false
           hide-keys: mostStarred, mostForked, followers, following, watchedBy
-          commit-message: 'Update stats'
+          commit-message: 'stats'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

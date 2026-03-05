@@ -2,7 +2,7 @@ name: gh-activity
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           EVENT_LIMIT: 25
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
-          COMMIT_MESSAGE: 'Update gh-activity'
+          COMMIT_MESSAGE: 'gh-activity'
