@@ -112,29 +112,29 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/fd7bcf54bdd86b7f957b3b95305da9fdaaccc650)
-2. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/6e1b38b830512d91da0f6293e4ff86b085c795d0)
-3. 📝 Committed to a private repo
-4. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/056a03675d9c4ec6cd0b5e0413da1ef758fe5a14)
-5. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/76e6229daf33ebc8c0a93eb071d15a3464534563)
-6. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/61594681cba4c7d5b40bbf36c634dc89433a7a14)
-7. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/648b3fd42635a505a6f3d0b41fe6c1c1c4a7bc59)
-8. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e8c1d7a04942f319c3c0d24494d679ea54085432)
-9. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9a147da3e3a847d2e85fbfcdd4a879f0c70ba5f2)
-10. 📝 Committed to a private repo
-11. 📝 Committed to a private repo
-12. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/db3f5fe816896e61a40400a78da9e9418e83b703)
-13. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/78326a55b143a9859ed745cb5c95ab4d575376e4)
-14. 📝 Committed to a private repo
-15. 📝 Committed to a private repo
+1. ⭐ Starred [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders)
+2. ⭐ Starred [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
+3. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/fd7bcf54bdd86b7f957b3b95305da9fdaaccc650)
+4. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/6e1b38b830512d91da0f6293e4ff86b085c795d0)
+5. 📝 Committed to a private repo
+6. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/056a03675d9c4ec6cd0b5e0413da1ef758fe5a14)
+7. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/76e6229daf33ebc8c0a93eb071d15a3464534563)
+8. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/61594681cba4c7d5b40bbf36c634dc89433a7a14)
+9. 📝 Committed to [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/648b3fd42635a505a6f3d0b41fe6c1c1c4a7bc59)
+10. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e8c1d7a04942f319c3c0d24494d679ea54085432)
+11. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9a147da3e3a847d2e85fbfcdd4a879f0c70ba5f2)
+12. 📝 Committed to a private repo
+13. 📝 Committed to a private repo
+14. 📝 Committed to [RoIPMARS/rustdesk](https://github.com/RoIPMARS/rustdesk/commit/db3f5fe816896e61a40400a78da9e9418e83b703)
+15. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/78326a55b143a9859ed745cb5c95ab4d575376e4)
 16. 📝 Committed to a private repo
-17. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/20b47c58a9ce3956be33384716a69ee0345806e2)
+17. 📝 Committed to a private repo
 18. 📝 Committed to a private repo
-19. 🗑️ Deleted a branch `dev` in [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest)
-20. 🗑️ Deleted a branch `live` in [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest)
-21. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/f1f48ae53ef999cfc3252e564b994028cedfb24e)
-22. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/f1f48ae53ef999cfc3252e564b994028cedfb24e)
+19. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/20b47c58a9ce3956be33384716a69ee0345806e2)
+20. 📝 Committed to a private repo
+21. 🗑️ Deleted a branch `dev` in [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest)
+22. 🗑️ Deleted a branch `live` in [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest)
 23. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/f1f48ae53ef999cfc3252e564b994028cedfb24e)
-24. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9e43323ab9862b15293937e0bebb4fca51c5d5b7)
-25. 📝 Committed to [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/b1a5d08339f67cc038e0517e0aa6c1b63fd99e07)
+24. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/f1f48ae53ef999cfc3252e564b994028cedfb24e)
+25. 📝 Committed to [MHRTechMY/speedtest](https://github.com/MHRTechMY/speedtest/commit/f1f48ae53ef999cfc3252e564b994028cedfb24e)
 <!--END_SECTION:activity-->
