@@ -114,29 +114,29 @@ Shell                    1 repo              ██░░░░░░░░░�
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e41fb92a90d7441d4b4969cdf37a532320e5997d)
-2. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/eaf2ee074c3822191584701a0586bc29976275a5)
-3. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/25c664becd70c7c6de6b09082dded09eb95fcdf1)
-4. 🗑️ Deleted a tag v0.1b8 in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
-5. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5214058a99772842abdb50b85e24e9557265a93b)
-6. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c981c8123850befebb5492d53cd39d963ef6fda5)
-7. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/f34eaa781575842eea92628beb3a3d20e73fab26)
-8. 🗑️ Deleted a tag v0.1b6 in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard)
-9. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a17b7ea1f88660819d040aa0ff2b9f997cfa1eeb)
-10. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e08f40ce1f210ff7a7f80a6141ee988b9fa0592d)
-11. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a44555a7096a2e669d5cd8b4849e6bb30823ad9c)
-12. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/da2487890c7400c15f12c2b51e6b910346c6508b)
-13. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5e70c655a8c68db858d5ae1503b4f3289c5f592a)
-14. 📝 Committed to in a private repository
-15. 📝 Committed to in a private repository
-16. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/8bd168f6cebd90b022ba5e6ad38d8c603527886e)
-17. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/faa51dfcce5ba247fe9089049fba25838f10bd00)
-18. 📝 Committed to master in [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv/commit/4022ceec1557500f18070e52c5841c442106bb66)
-19. 📝 Committed to master in [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/3c045a612047686b13dacc4c0a781606820d7f19)
-20. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/cd276126046778fb0c590082261ae38064b2f8b6)
-21. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/3475509ea1219978db50d53788fe292ecdc485a6)
-22. 📝 Committed to master in [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/72458a308d773d264e71c350914b547494f89871)
-23. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/89f212a7b54c1f4ed0f84e3d3782a63d713d2bc5)
-24. 📝 Committed to master in [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/7d734584888750fb071fb612a81d9064a86f7d49)
-25. 📝 Committed to master in [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/4a531340e90fa9ad029ff696b41fb076296c1956)
+1. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/9ddc6c731bceb4efa0bbb96878d7536a7c433d4f)
+2. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/5699ff7e3bdc74157561e6f96d4784c0bca4dc0c)
+3. 📝 Committed to master in [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/efd6deff64972ac0a6d876bb86c7d201601832ac)
+4. 📝 Committed to master in [HafiziRuslan/HafiziRuslan](https://github.com/HafiziRuslan/HafiziRuslan/commit/87989b9ead07d88c9991cf744218d3a30b3624bb)
+5. 📝 Committed to in a private repository
+6. 📝 Committed to in a private repository
+7. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e41fb92a90d7441d4b4969cdf37a532320e5997d)
+8. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/eaf2ee074c3822191584701a0586bc29976275a5)
+9. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/25c664becd70c7c6de6b09082dded09eb95fcdf1)
+10. 🗑️ Deleted a tag v0.1b8 in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS)
+11. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5214058a99772842abdb50b85e24e9557265a93b)
+12. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/c981c8123850befebb5492d53cd39d963ef6fda5)
+13. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/f34eaa781575842eea92628beb3a3d20e73fab26)
+14. 🗑️ Deleted a tag v0.1b6 in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard)
+15. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a17b7ea1f88660819d040aa0ff2b9f997cfa1eeb)
+16. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/e08f40ce1f210ff7a7f80a6141ee988b9fa0592d)
+17. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/a44555a7096a2e669d5cd8b4849e6bb30823ad9c)
+18. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/da2487890c7400c15f12c2b51e6b910346c6508b)
+19. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/5e70c655a8c68db858d5ae1503b4f3289c5f592a)
+20. 📝 Committed to in a private repository
+21. 📝 Committed to in a private repository
+22. 📝 Committed to master in [HafiziRuslan/RasPiAPRS](https://github.com/HafiziRuslan/RasPiAPRS/commit/8bd168f6cebd90b022ba5e6ad38d8c603527886e)
+23. 📝 Committed to master in [HafiziRuslan/MMDVM-LastHeard](https://github.com/HafiziRuslan/MMDVM-LastHeard/commit/faa51dfcce5ba247fe9089049fba25838f10bd00)
+24. 📝 Committed to master in [HafiziRuslan/cv](https://github.com/HafiziRuslan/cv/commit/4022ceec1557500f18070e52c5841c442106bb66)
+25. 📝 Committed to master in [HafiziRuslan/MMDVM-Hosts-Overwrite](https://github.com/HafiziRuslan/MMDVM-Hosts-Overwrite/commit/3c045a612047686b13dacc4c0a781606820d7f19)
 <!--END_SECTION:activity-->
