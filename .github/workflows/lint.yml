@@ -1,7 +1,17 @@
 name: lint
 
 on: # yamllint disable-line rule:truthy
-  push: null
+  push:
+    paths-ignore:
+      - '.github/**'
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - gh-activity
+      - metrics
+      - stats
+    types:
+      - completed
 
 permissions: {}
 
@@ -33,3 +43,5 @@ jobs:
         env:
           # To report GitHub Actions status checks
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          FIX_MARKDOWN_PRETTIER: true
+          FIX_YAML_PRETTIER: true

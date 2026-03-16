@@ -10,9 +10,7 @@ on:
   workflow_dispatch:
   workflow_run:
     workflows:
-      - gh-activity
-      - metrics
-      - stats
+      - lint
     types:
       - completed
 
