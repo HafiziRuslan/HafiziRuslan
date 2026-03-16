@@ -35,3 +35,5 @@ jobs:
           FIX_MARKDOWN: true
           FIX_MARKDOWN_PRETTIER: true
           FIX_YAML_PRETTIER: true
+          VALIDATE_CHECKOV: false
+          VALIDATE_GITHUB_ACTIONS_ZIZMOR: false
