@@ -38,5 +38,7 @@ jobs:
         uses: super-linter/super-linter@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          FIX_MARKDOWN: true
           FIX_MARKDOWN_PRETTIER: true
+          FIX_YAML: true
           FIX_YAML_PRETTIER: true
