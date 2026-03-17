@@ -34,78 +34,78 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-616.21%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-617.14%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 55.8 kB Used in GitHub's Storage
- >
-> 🏆 1,010 Contributions in the Year 2026
- >
+> 📦 55.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,037 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
- >
-> 📜 13 Public Repositories
- >
-> 🔑 2 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                671 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-🌆 Daytime                671 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-🌃 Evening                1183 commits        ███████░░░░░░░░░░░░░░░░░░   29.20 %
-🌙 Night                  1526 commits        █████████░░░░░░░░░░░░░░░░   37.67 %
+🌞 Morning                674 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌆 Daytime                678 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+🌃 Evening                1195 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+🌙 Night                  1531 commits        █████████░░░░░░░░░░░░░░░░   37.54 % 
 ```
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   604 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 %
-Tuesday                  725 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 %
-Wednesday                674 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Thursday                 759 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 %
-Friday                   458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Saturday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Sunday                   404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Monday                   623 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Tuesday                  733 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Wednesday                674 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Thursday                 759 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Friday                   458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Saturday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Sunday                   404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
-💬 Programming Languages:
-Python                   14 hrs 9 mins       ████████████████░░░░░░░░░   63.09 %
-Bash                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-YAML                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+💬 Programming Languages: 
+Python                   15 hrs 15 mins      ████████████████░░░░░░░░░   64.86 % 
+Bash                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+YAML                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Nginx configuration file 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
-🔥 Editors:
-VS Code                  20 hrs 26 mins      ███████████████████████░░   91.08 %
-Edge                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+🔥 Editors: 
+VS Code                  21 hrs 23 mins      ███████████████████████░░   90.92 % 
+Edge                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
-🐱‍💻 Projects:
-RasPiAPRS                13 hrs              ██████████████░░░░░░░░░░░   57.95 %
-MMDVM-LastHeard          6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 %
-RasPi-Backups            2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-HafiziRuslan             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-WPSD-Dev                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+🐱‍💻 Projects: 
+RasPiAPRS                14 hrs 12 mins      ███████████████░░░░░░░░░░   60.42 % 
+MMDVM-LastHeard          6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+RasPi-Backups            2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+HafiziRuslan             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+WPSD-Dev                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
-💻 Operating System:
-Windows                  22 hrs 26 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  23 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in PHP**
+**I Mostly Code in PHP** 
 
 ```text
-PHP                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 %
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+PHP                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
