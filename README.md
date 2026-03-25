@@ -114,8 +114,6 @@ Windows                  21 hrs 31 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <!--END_SECTION:waka-->
 
-## Recent GitHub Activities
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->

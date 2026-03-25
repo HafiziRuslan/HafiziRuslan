@@ -8,7 +8,7 @@ settings:
   url_text: '{REPO}{ID}'
   date:
     timezone: 'Asia/Kuala_Lumpur'
-    text: 'Last Updated: {DATE}'
+    text: '## Recent GitHub Activities: {DATE}'
     format: 'isoDateTime'
   commit_name: 'github-actions[bot]'
   # commit_email: '41898282+github-actions[bot]@users.noreply.github.com'
