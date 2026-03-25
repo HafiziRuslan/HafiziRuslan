@@ -116,5 +116,6 @@ Windows                  21 hrs 31 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 ## Recent GitHub Activities
 
-<!-- ACTIVITY:START -->
-<!-- ACTIVITY:END -->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
