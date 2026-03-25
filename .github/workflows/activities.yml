@@ -16,8 +16,11 @@ jobs:
   activity:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@main
+        with:
+          fetch-depth: 0
+          persist-credentials: false
 
       - name: Generate the activity log
         uses: gautamkrishnar/blog-post-workflow@master
