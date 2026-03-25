@@ -27,7 +27,7 @@ jobs:
             https://gist.github.com/HafiziRuslan.atom,
             https://gitlab.com/hafiziruslan.atom,
             https://codeberg.org/hafiziruslan.rss
-          template: '$counter. $date | [$title]($url)'
+          template: '$counter. $date | [$title]($url) $newline'
           date_format: 'isoDateTime'
           max_post_count: 50
           gh_token: ${{ secrets.GH_TOKEN }}
