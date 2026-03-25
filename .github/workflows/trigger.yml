@@ -31,6 +31,7 @@ jobs:
                 continue;
               }
 
+              const startTime = Date.now();
               console.log(`Dispatching workflow: ${workflow.name}`);
               await github.rest.actions.createWorkflowDispatch({
                 owner: context.repo.owner,
@@ -43,7 +44,7 @@ jobs:
 
               let status = 'queued';
               let conclusion = 'unknown';
-              
+
               while (status !== 'completed') {
                 const runs = await github.rest.actions.listWorkflowRuns({
                   owner: context.repo.owner,
@@ -63,13 +64,16 @@ jobs:
                   await sleep(15000);
                 }
               }
-              results.push({ name: workflow.name, conclusion });
-              console.log(`Workflow ${workflow.name} finished.`);
+              const duration = Math.floor((Date.now() - startTime) / 1000);
+              const durationStr = `${Math.floor(duration / 60)}m ${duration % 60}s`;
+
+              results.push({ name: workflow.name, conclusion, duration: durationStr });
+              console.log(`Workflow ${workflow.name} finished in ${durationStr}.`);
             }
 
-            let summary = '### Trigger Summary\n\n| Workflow | Status |\n| :--- | :--- |\n';
+            let summary = '### Trigger Summary\n\n| Workflow | Status | Duration |\n| :--- | :--- | :--- |\n';
             for (const res of results) {
               const icon = res.conclusion === 'success' ? '✅' : '❌';
-              summary += `| ${res.name} | ${icon} ${res.conclusion} |\n`;
+              summary += `| ${res.name} | ${icon} ${res.conclusion} | ${res.duration} |\n`;
             }
             core.summary.addRaw(summary).write();
