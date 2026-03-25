@@ -35,7 +35,7 @@ jobs:
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   workflow_id: workflow.id,
-                  ref: 'main'
+                  ref: '${{ github.ref }}'
                 });
               } catch (error) {
                 console.log(`Could not trigger ${workflow.name}: ${error.message}`);
