@@ -1,0 +1,43 @@
+---
+name: trigger
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  trigger-others:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Workflows
+        uses: actions/github-script@main
+        with:
+          script: |
+            const workflows = await github.rest.actions.listRepoWorkflows({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            });
+
+            for (const workflow of workflows.data.workflows) {
+              const name = workflow.name.toLowerCase();
+
+              // Filter out lint, push, and this trigger workflow itself
+              if (name === "trigger" || name.includes("lint") || name.includes("push")) {
+                console.log(`Skipping workflow: ${workflow.name}`);
+                continue;
+              }
+
+              console.log(`Dispatching workflow: ${workflow.name}`);
+              try {
+                await github.rest.actions.createWorkflowDispatch({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  workflow_id: workflow.id,
+                  ref: 'main'
+                });
+              } catch (error) {
+                console.log(`Could not trigger ${workflow.name}: ${error.message}`);
+              }
+            }
