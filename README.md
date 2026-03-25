@@ -53,82 +53,58 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.04%20thousand%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-**🐱 My GitHub Data**
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-626.62%20thousand%20lines%20of%20code-blue?style=flat)
 
-> 📦 57.1 kB Used in GitHub's Storage
- >
-> 🏆 1,185 Contributions in the Year 2026
- >
+**🐱 My GitHub Data** 
+
+> 📦 57.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,209 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
- >
-> 📜 12 Public Repositories
- >
-> 🔑 2 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                883 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-🌆 Daytime                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-🌃 Evening                1661 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 %
-🌙 Night                  2198 commits        ██████████░░░░░░░░░░░░░░░   39.05 %
+🌞 Morning                702 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.51 % 
+🌆 Daytime                708 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.65 % 
+🌃 Evening                1236 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.06 % 
+🌙 Night                  1607 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.79 % 
 ```
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   773 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Tuesday                  1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 %
-Wednesday                995 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 %
-Thursday                 1131 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Friday                   636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Saturday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Sunday                   522 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages:
-Python                   11 hrs 28 mins      ██████████████░░░░░░░░░░░   56.57 %
-Other                    2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
-YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-
-🔥 Editors:
-VS Code                  16 hrs 38 mins      █████████████████████░░░░   82.06 %
-Edge                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Chrome                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-
-🐱‍💻 Projects:
-RasPiAPRS                11 hrs 31 mins      ██████████████░░░░░░░░░░░   56.77 %
-MMDVM-LastHeard          5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 %
-cv.mhrtech.my            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-RasPi-Backups            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-WebCode                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-
-💻 Operating System:
-Windows                  20 hrs 17 mins      █████████████████████████   100.00 %
-```
-
-**I Mostly Code in PHP**
-
-```text
-PHP                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 %
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Monday                   651 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.31 % 
+Tuesday                  749 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.61 % 
+Wednesday                734 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.26 % 
+Thursday                 780 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.34 % 
+Friday                   492 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.57 % 
+Saturday                 436 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.25 % 
+Sunday                   411 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.66 % 
 ```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+RasPiAPRS                12 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.34 % 
+MMDVM-LastHeard          5 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.65 % 
+cv.mhrtech.my            1 hr 8 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.34 % 
+RasPi-Backups            54 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.24 % 
+WebCode                  38 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.98 % 
+
+💻 Operating System: 
+Windows                  21 hrs 31 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
 
 **Timeline**
 
