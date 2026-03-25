@@ -1,0 +1,38 @@
+---
+name: activities
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Kuala_Lumpur
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Generate the activity log
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: >-
+            https://github.com/${{ github.repository_owner }}.atom,
+            https://gist.github.com/${{ github.repository_owner }}.atom,
+            https://gitlab.com/${{ github.repository_owner }}.atom,
+            https://codeberg.org/${{ github.repository_owner }}.rss,
+            https://gitea.com/${{ github.repository_owner }}.rss,
+            https://repo.w0chp.net/${{ github.repository_owner }}.rss
+          max_post_count: 50
+          gh_token: ${{ secrets.GH_TOKEN }}
+          commit_message: 'activities'
+          committer_username: 'github-actions[bot]'
+          committer_email: '30207509+github-actions[bot]@users.noreply.github.com'
+          filter_dates: 'daysAgo/7/'
+          remove_duplicates: true

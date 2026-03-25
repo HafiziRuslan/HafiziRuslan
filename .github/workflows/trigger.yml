@@ -4,6 +4,9 @@ name: trigger
 on:
   workflow_dispatch:
 
+env:
+  TZ: Asia/Kuala_Lumpur
+
 permissions:
   actions: write
 
