@@ -27,7 +27,7 @@ jobs:
               "theme": "transparent",
               "hide_border": true,
               "rank_icon": "github",
-              "include_all_commits": true
+              "include_all_commits": true,
             }
           path: images/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -43,7 +43,7 @@ jobs:
               "size_weight": 0.5,
               "count_weight": 0.5,
               "theme": "transparent",
-              "hide_border": true
+              "hide_border": true,
             }
           path: images/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -56,16 +56,18 @@ jobs:
             {
               "username": "${{ github.repository_owner }}",
               "hide_progress": true,
+              "theme": "transparent",
+              "hide_border": true,
               "custom_title": "Time Stats",
-              "layout": "compact"
+              "layout": "compact",
             }
           path: images/time.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "30207509+github-actions[bot]@users.noreply.github.com"
           git add images/*.svg
           git commit -m "cards" || exit 0
           git push
