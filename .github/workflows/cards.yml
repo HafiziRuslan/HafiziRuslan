@@ -5,7 +5,8 @@ on:
     - cron: '0 0/4 * * *'
   workflow_dispatch:
 
-permissions: {}
+permissions:
+  contents: write
 
 jobs:
   cards:
@@ -31,7 +32,7 @@ jobs:
           path: images/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: top-langs card
+      - name: langs card
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: top-langs
@@ -44,7 +45,7 @@ jobs:
               "theme": "transparent",
               "hide_border": true
             }
-          path: images/top-langs.svg
+          path: images/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: time card
