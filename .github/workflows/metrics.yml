@@ -20,6 +20,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: 'metrics'
           SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROFILE_VIEWS: false
+          SHOW_PROFILE_VIEWS: true
           SHOW_LINES_OF_CODE: true
           SHOW_UPDATED_DATE: false
+          SHOW_LANGUAGE: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SYMBOL_VERSION: 2
+          BADGE_STYLE: 'for-the-badge'
