@@ -40,4 +40,4 @@ jobs:
           hide-keys: mostStarred, mostForked, followers, following, watchedBy
           commit-message: 'stats'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -39,7 +39,7 @@ jobs:
               "card_width": 480
             }
           path: images/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: langs card
         uses: readme-tools/github-readme-stats-action@main
@@ -49,14 +49,16 @@ jobs:
             {
               "username": "${{ github.repository_owner }}",
               "layout": "compact",
-              "size_weight": 0.5,
-              "count_weight": 0.5,
+              "size_weight": 0.8,
+              "count_weight": 0.2,
+              "langs_count": 9,
+              "stats_format": "bytes",
               "theme": "github_dark_dimmed",
               "hide_border": true,
               "card_width": 480
             }
           path: images/langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: time card
         uses: readme-tools/github-readme-stats-action@main
@@ -73,7 +75,7 @@ jobs:
               "card_width": 480
             }
           path: images/time.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |
