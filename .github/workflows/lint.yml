@@ -7,7 +7,8 @@ on:
       - '.github/**'
   workflow_dispatch:
 
-permissions: {}
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -37,3 +38,11 @@ jobs:
           FIX_YAML_PRETTIER: true
           VALIDATE_CHECKOV: false
           VALIDATE_GITHUB_ACTIONS_ZIZMOR: false
+
+      - name: Commit lint
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "30207509+github-actions[bot]@users.noreply.github.com"
+          git add *
+          git commit -m "lint" || exit 0
+          git push
