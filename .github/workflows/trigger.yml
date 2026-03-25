@@ -15,6 +15,9 @@ jobs:
         uses: actions/github-script@main
         with:
           script: |
+            const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+            const results = [];
+
             const workflows = await github.rest.actions.listRepoWorkflows({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -23,21 +26,50 @@ jobs:
             for (const workflow of workflows.data.workflows) {
               const name = workflow.name.toLowerCase();
 
-              // Filter out lint, push, and this trigger workflow itself
               if (name === "trigger" || name.includes("lint") || name.includes("push")) {
                 console.log(`Skipping workflow: ${workflow.name}`);
                 continue;
               }
 
               console.log(`Dispatching workflow: ${workflow.name}`);
-              try {
-                await github.rest.actions.createWorkflowDispatch({
+              await github.rest.actions.createWorkflowDispatch({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                workflow_id: workflow.id,
+                ref: '${{ github.ref }}'
+              });
+
+              await sleep(10000);
+
+              let status = 'queued';
+              let conclusion = 'unknown';
+              
+              while (status !== 'completed') {
+                const runs = await github.rest.actions.listWorkflowRuns({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   workflow_id: workflow.id,
-                  ref: '${{ github.ref }}'
+                  per_page: 1
                 });
-              } catch (error) {
-                console.log(`Could not trigger ${workflow.name}: ${error.message}`);
+
+                if (runs.data.workflow_runs.length > 0) {
+                  const latestRun = runs.data.workflow_runs[0];
+                  status = latestRun.status;
+                  conclusion = latestRun.conclusion;
+                  console.log(`Workflow ${workflow.name} status: ${status}`);
+                }
+
+                if (status !== 'completed') {
+                  await sleep(15000);
+                }
               }
+              results.push({ name: workflow.name, conclusion });
+              console.log(`Workflow ${workflow.name} finished.`);
             }
+
+            let summary = '### Trigger Summary\n\n| Workflow | Status |\n| :--- | :--- |\n';
+            for (const res of results) {
+              const icon = res.conclusion === 'success' ? '✅' : '❌';
+              summary += `| ${res.name} | ${icon} ${res.conclusion} |\n`;
+            }
+            core.summary.addRaw(summary).write();
