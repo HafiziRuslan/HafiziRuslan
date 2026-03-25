@@ -32,7 +32,8 @@ jobs:
             Gist.Github,
             GitLab,
             Codeberg
-          template: '$newline$counter. $date | $feedName | [$title]($url)'
+          template: '$counter. $date > $feedName > [$title]($url)$newline'
+          tag_post_pre_newline: true
           date_format: 'isoDateTime'
           max_post_count: 50
           gh_token: ${{ secrets.GH_TOKEN }}
