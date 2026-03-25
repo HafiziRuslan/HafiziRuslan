@@ -30,6 +30,7 @@ jobs:
           colors: dark-dimmed
           border-radius: 1
           show-border: false
+          image-width: 480
           hide-keys: mostStarred, mostForked, followers, following, watchedBy
           commit-message: 'stats'
         env:

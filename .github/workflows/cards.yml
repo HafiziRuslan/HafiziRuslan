@@ -24,11 +24,11 @@ jobs:
               "hide": "stars",
               "show": "prs_merged_percentage",
               "show_icons": true,
-              "theme": "transparent",
+              "theme": "github_dark_dimmed",
               "hide_border": true,
               "rank_icon": "github",
               "include_all_commits": true,
-              "card_width": 630
+              "card_width": 480
             }
           path: images/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -43,9 +43,9 @@ jobs:
               "layout": "compact",
               "size_weight": 0.5,
               "count_weight": 0.5,
-              "theme": "transparent",
+              "theme": "github_dark_dimmed",
               "hide_border": true,
-              "card_width": 630
+              "card_width": 480
             }
           path: images/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -58,11 +58,11 @@ jobs:
             {
               "username": "${{ github.repository_owner }}",
               "hide_progress": true,
-              "theme": "transparent",
+              "theme": "github_dark_dimmed",
               "hide_border": true,
               "custom_title": "Time Stats",
               "layout": "compact",
-              "card_width": 630
+              "card_width": 480
             }
           path: images/time.svg
           token: ${{ secrets.GITHUB_TOKEN }}

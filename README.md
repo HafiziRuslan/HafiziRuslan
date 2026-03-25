@@ -1,24 +1,41 @@
 # Hi there 👋
 
+<div style="text-align: center;">
+
+![Hafizi Ruslan](https://avatars.githubusercontent.com/u/30207509?v=4)
+
 ![Ko-Fi sponsors](https://img.shields.io/badge/kofi-tip-FF6433?style=for-the-badge&logo=kofi&logoColor=FF6433&logoSize=auto&link=https%3A%2F%2Fko-fi.com%2Fhafiziruslan)
 ![Buy me a Coffee sponsors](https://img.shields.io/badge/buymeacoffee-tip-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00&logoSize=auto&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fhafiziruslan)
 ![PayPal sponsors](https://img.shields.io/badge/paypal-tip-002991?style=for-the-badge&logo=paypal&logoColor=002991&logoSize=auto&link=https%3A%2F%2Fpaypal.me%2FHafiziRuslan)
 ![Stripe sponsors](https://img.shields.io/badge/stripe-tip-635BFF?style=for-the-badge&logo=stripe&logoColor=635BFF&logoSize=auto&link=https%3A%2F%2Fdonate.stripe.com%2F5kA9CJg7S1J8bx64gg)
-
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/hafiziruslan?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA&logoSize=auto&color=EA4AAA&link=https%3A%2F%2Fgithub.com%2Fsponsors%2FHafiziRuslan)
 ![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/hafiziruslan?style=for-the-badge&logo=opencollective&logoColor=7FADF2&logoSize=auto&link=https%3A%2F%2Fopencollective.com%2Fhafiziruslan)
 ![thanks.dev sponsors](https://img.shields.io/badge/sponsors-thanks.dev-black?style=for-the-badge&logoSize=auto&link=https%3A%2F%2Fthanks.dev%2F%2Fgh%2Fhafiziruslan)
 
-My Repositories
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><th colspan="2" style="text-align: center;">Repositories</th></tr>
+  <tr><td style="text-align: end;">GitHub</td><td><a href="https://github.com/HafiziRuslan">HafiziRuslan</a></td></tr>
+  <tr><td style="text-align: end;">GitLab</td><td><a href="https://gitlab.com/hafiziruslan">hafiziruslan</a></td></tr>
+  <tr><td style="text-align: end;">Codeberg</td><td><a href="https://codeberg.org/hafiziruslan">hafiziruslan</a></td></tr>
+  <tr><td style="text-align: end;">Gitea</td><td><a href="https://gitea.com/HafiziRuslan">HafiziRuslan</a></td></tr>
+  <tr><td style="text-align: end;">WPSD-Dev</td><td><a href="https://repo.w0chp.net/9w2lgx">9W2LGX</a></td></tr>
+</table>
 
-- [GitHub](https://github.com/HafiziRuslan)
-- [GitLab](https://gitlab.com/hafiziruslan)
-- [Codeberg](https://codeberg.org/hafiziruslan)
-- [Gitea](https://gitea.com/HafiziRuslan)
+</div>
 
 ## About
 
-![My user statistics](images/userstats.svg)
+<div style="text-align: center;">
+
+![stats](images/stats.svg)
+
+![user stats](images/userstats.svg)
+
+![alt text](images/langs.svg)
+
+![alt text](images/time.svg)
+
+</div>
 
 <!--
 **HafiziRuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,75 +57,75 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.04%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 57.1 kB Used in GitHub's Storage 
- > 
+> 📦 57.1 kB Used in GitHub's Storage
+ >
 > 🏆 1,185 Contributions in the Year 2026
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 12 Public Repositories
+ >
+> 🔑 2 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                883 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌆 Daytime                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌃 Evening                1661 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌙 Night                  2198 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
+🌞 Morning                883 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+🌆 Daytime                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+🌃 Evening                1661 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 %
+🌙 Night                  2198 commits        ██████████░░░░░░░░░░░░░░░   39.05 %
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   773 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Tuesday                  1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Wednesday                995 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Thursday                 1131 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Friday                   636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Saturday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   522 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Monday                   773 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Tuesday                  1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 %
+Wednesday                995 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 %
+Thursday                 1131 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Friday                   636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Saturday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Sunday                   522 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
-💬 Programming Languages: 
-Python                   11 hrs 28 mins      ██████████████░░░░░░░░░░░   56.57 % 
-Other                    2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+💬 Programming Languages:
+Python                   11 hrs 28 mins      ██████████████░░░░░░░░░░░   56.57 %
+Other                    2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
+YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 
-🔥 Editors: 
-VS Code                  16 hrs 38 mins      █████████████████████░░░░   82.06 % 
-Edge                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Chrome                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+🔥 Editors:
+VS Code                  16 hrs 38 mins      █████████████████████░░░░   82.06 %
+Edge                     3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+Chrome                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 
-🐱‍💻 Projects: 
-RasPiAPRS                11 hrs 31 mins      ██████████████░░░░░░░░░░░   56.77 % 
-MMDVM-LastHeard          5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-cv.mhrtech.my            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-RasPi-Backups            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-WebCode                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+🐱‍💻 Projects:
+RasPiAPRS                11 hrs 31 mins      ██████████████░░░░░░░░░░░   56.77 %
+MMDVM-LastHeard          5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 %
+cv.mhrtech.my            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+RasPi-Backups            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+WebCode                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 
-💻 Operating System: 
-Windows                  20 hrs 17 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  20 hrs 17 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in PHP** 
+**I Mostly Code in PHP**
 
 ```text
-PHP                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PHP                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 %
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
 ```
 
 

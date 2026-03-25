@@ -20,6 +20,6 @@ jobs:
         with:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          EVENT_LIMIT: 25
+          EVENT_LIMIT: 50
           HIDE_DETAILS_ON_PRIVATE_REPOS: true
           COMMIT_MESSAGE: 'gh-activity'
