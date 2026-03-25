@@ -17,7 +17,17 @@ jobs:
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide=stars&show=prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true
+          options: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "hide": "stars",
+              "show": "prs_merged_percentage",
+              "show_icons": true,
+              "theme": "transparent",
+              "hide_border": true,
+              "rank_icon": "github",
+              "include_all_commits": true
+            }
           path: images/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,7 +35,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true
+          options: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "layout": "compact",
+              "size_weight": 0.5,
+              "count_weight": 0.5,
+              "theme": "transparent",
+              "hide_border": true
+            }
           path: images/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,7 +51,13 @@ jobs:
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&hide_progress=true&custom_title=Time%20Stats&layout=compact
+          options: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "hide_progress": true,
+              "custom_title": "Time Stats",
+              "layout": "compact"
+            }
           path: images/time.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
