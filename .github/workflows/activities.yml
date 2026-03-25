@@ -26,9 +26,9 @@ jobs:
             https://github.com/HafiziRuslan.atom,
             https://gist.github.com/HafiziRuslan.atom,
             https://gitlab.com/hafiziruslan.atom,
-            https://codeberg.org/hafiziruslan.rss,
-            https://gitea.com/HafiziRuslan.rss,
-            https://repo.w0chp.net/9w2lgx.rss
+            https://codeberg.org/hafiziruslan.rss
+          template: '$counter. $date | [$title]($url)'
+          date_format: 'isoDateTime'
           max_post_count: 50
           gh_token: ${{ secrets.GH_TOKEN }}
           commit_message: 'activities'
