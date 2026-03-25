@@ -22,8 +22,8 @@ jobs:
       - name: Generate the activity log
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://github.com/HafiziRuslan.atom,https://gist.github.com/HafiziRuslan.atom,https://gitlab.com/hafiziruslan.atom,https://codeberg.org/hafiziruslan.rss'
-          feed_names: 'GitHub,Gist.GitHub,GitLab,Codeberg'
+          feed_list: 'https://github.com/HafiziRuslan.atom,https://gitlab.com/hafiziruslan.atom,https://codeberg.org/hafiziruslan.rss,https://gist.github.com/HafiziRuslan.atom'
+          feed_names: 'GitHub,GitLab,Codeberg,Gist'
           template: '$counter. $date > $feedName > [$title]($url)$newline'
           tag_post_pre_newline: true
           date_format: 'isoDateTime'
