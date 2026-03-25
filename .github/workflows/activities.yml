@@ -23,16 +23,15 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: >-
-            https://github.com/${{ github.repository_owner }}.atom,
-            https://gist.github.com/${{ github.repository_owner }}.atom,
-            https://gitlab.com/${{ github.repository_owner }}.atom,
-            https://codeberg.org/${{ github.repository_owner }}.rss,
-            https://gitea.com/${{ github.repository_owner }}.rss,
-            https://repo.w0chp.net/${{ github.repository_owner }}.rss
+            https://github.com/HafiziRuslan.atom,
+            https://gist.github.com/HafiziRuslan.atom,
+            https://gitlab.com/hafiziruslan.atom,
+            https://codeberg.org/hafiziruslan.rss,
+            https://gitea.com/HafiziRuslan.rss,
+            https://repo.w0chp.net/9w2lgx.rss
           max_post_count: 50
           gh_token: ${{ secrets.GH_TOKEN }}
           commit_message: 'activities'
           committer_username: 'github-actions[bot]'
           committer_email: '30207509+github-actions[bot]@users.noreply.github.com'
-          filter_dates: 'daysAgo/7/'
           remove_duplicates: true

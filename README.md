@@ -15,6 +15,7 @@
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th colspan="2" style="text-align: center;">Repositories</th></tr>
   <tr><td style="text-align: end;">GitHub</td><td><a href="https://github.com/HafiziRuslan">HafiziRuslan</a></td></tr>
+  <tr><td style="text-align: end;">Gist.GitHub</td><td><a href="https://gist.github.com/HafiziRuslan">HafiziRuslan</a></td></tr>
   <tr><td style="text-align: end;">GitLab</td><td><a href="https://gitlab.com/hafiziruslan">hafiziruslan</a></td></tr>
   <tr><td style="text-align: end;">Codeberg</td><td><a href="https://codeberg.org/hafiziruslan">hafiziruslan</a></td></tr>
   <tr><td style="text-align: end;">Gitea</td><td><a href="https://gitea.com/HafiziRuslan">HafiziRuslan</a></td></tr>
