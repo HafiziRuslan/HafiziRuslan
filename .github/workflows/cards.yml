@@ -18,9 +18,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@main
-        with:
-          fetch-depth: 0
-          persist-credentials: true
+        # with:
+        #   fetch-depth: 0
+        #   persist-credentials: true
 
       - name: stats card
         uses: stats-organization/github-readme-stats-action@main
