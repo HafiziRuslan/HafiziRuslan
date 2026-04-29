@@ -23,7 +23,7 @@ jobs:
           persist-credentials: true
 
       - name: stats card
-        uses: readme-tools/github-readme-stats-action@main
+        uses: stats-organization/github-readme-stats-action@main
         with:
           card: stats
           options: |
@@ -42,7 +42,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
       - name: langs card
-        uses: readme-tools/github-readme-stats-action@main
+        uses: stats-organization/github-readme-stats-action@main
         with:
           card: top-langs
           options: |
@@ -61,7 +61,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
       - name: time card
-        uses: readme-tools/github-readme-stats-action@main
+        uses: stats-organization/github-readme-stats-action@main
         with:
           card: wakatime
           options: |
