@@ -1,0 +1,21 @@
+{
+  "name": "hafiziruslan",
+  "version": "0.0.1",
+  "description": "README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafiziRuslan/HafiziRuslan.git"
+  },
+  "keywords": [],
+  "author": "hafiziruslan",
+  "license": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HafiziRuslan/HafiziRuslan/issues"
+  },
+  "homepage": "https://github.com/HafiziRuslan/HafiziRuslan#readme"
+}
