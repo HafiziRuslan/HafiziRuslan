@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="120.7"
+          width="116.07"
           height="8"
           fill="#663399"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="120.7"
+          x="116.07"
           y="0"
-          width="85.04"
+          width="96.62"
           height="8"
           fill="#4F5D95"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="205.74"
+          x="212.69"
           y="0"
-          width="79.54"
+          width="76.49"
           height="8"
           fill="#3572A5"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="285.28000000000003"
+          x="289.18"
           y="0"
-          width="42.16"
+          width="40.54"
           height="8"
           fill="#f1e05a"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="327.44000000000005"
+          x="329.72"
           y="0"
-          width="40.06"
+          width="40.19"
           height="8"
           fill="#89e051"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="367.50000000000006"
+          x="369.91"
           y="0"
-          width="33.56"
+          width="32.27"
           height="8"
           fill="#878787"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="401.06000000000006"
+          x="402.18"
           y="0"
-          width="28.94"
+          width="27.83"
           height="8"
           fill="#e34c26"
         />
@@ -208,7 +208,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 20.6 KB
+        PHP 24.3 KB
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -229,7 +229,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 9.7 KB
+        Shell 10.1 KB
       </text>
     </g>
   </g><g transform="translate(0, 25)">
