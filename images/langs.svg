@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="140.16"
+          width="140.14"
           height="8"
           fill="#4F5D95"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="140.16"
+          x="140.14"
           y="0"
           width="75.51"
           height="8"
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.67000000000002"
+          x="215.64999999999998"
           y="0"
           width="61.93"
           height="8"
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="277.6"
+          x="277.58"
           y="0"
-          width="50.35"
+          width="50.36"
           height="8"
           fill="#3572A5"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="327.95000000000005"
+          x="327.94"
           y="0"
-          width="39.88"
+          width="39.89"
           height="8"
           fill="#f1e05a"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="367.83000000000004"
+          x="367.83"
           y="0"
-          width="16.2"
+          width="16.21"
           height="8"
           fill="#0298c3"
         />
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="384.03000000000003"
+          x="384.03999999999996"
           y="0"
           width="15.38"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="399.41"
+          x="399.41999999999996"
           y="0"
           width="15.37"
           height="8"
@@ -208,7 +208,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="414.78000000000003"
+          x="414.78999999999996"
           y="0"
           width="15.21"
           height="8"
