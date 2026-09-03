@@ -19,7 +19,7 @@
   <tr><td style="text-align: end;">GitLab</td><td><a href="https://gitlab.com/hafiziruslan">hafiziruslan</a></td></tr>
   <tr><td style="text-align: end;">Codeberg</td><td><a href="https://codeberg.org/hafiziruslan">hafiziruslan</a></td></tr>
   <tr><td style="text-align: end;">Gitea</td><td><a href="https://gitea.com/HafiziRuslan">HafiziRuslan</a></td></tr>
-  <tr><td style="text-align: end;">WPSD-Dev</td><td><a href="https://repo.w0chp.net/9w2lgx">9W2LGX</a></td></tr>
+  <tr><td style="text-align: end;">WPSD-Dev</td><td><a href="https://repo.w0chp.net/9m2fzy">9M2FZY</a></td></tr>
 </table>
 
 </div>
