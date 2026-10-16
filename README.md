@@ -54,19 +54,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2039%20mins-blue?style=for-the-badge)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs-blue?style=for-the-badge)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865.46%20thousand%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-869.33%20thousand%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
-> 📦 471.6 kB Used in GitHub's Storage 
+> 📦 471.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,610 Contributions in the Year 2026
+> 🏆 2,625 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -74,62 +70,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                882 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.07 % 
-🌆 Daytime                1043 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.82 % 
-🌃 Evening                1696 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.98 % 
-🌙 Night                  2231 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.12 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   917 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.67 % 
-Tuesday                  1030 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.60 % 
-Wednesday                1046 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.87 % 
-Thursday                 1011 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.28 % 
-Friday                   701 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.98 % 
-Saturday                 585 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
-Sunday                   562 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-RasPiAPRS                1 hr 54 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.80 % 
-RasPi-ASL-Backups        1 hr 19 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.29 % 
-Zello_Bridge             1 hr 7 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.91 % 
-
-💻 Operating System: 
-Windows                  4 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 38 mins (14.64%)
-
-✍️ 249 lines written by AI, 70 lines written by hand (78.06% AI-written)
-
-🔤 940,272 Input Tokens, 3,045 Output Tokens
-
-💵 $1.92 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 7 AI Prompts
-
-Github-Copilot-Cli       249 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-Gemini                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.06% of written lines came from AI
-📝 Concise Prompter — average 294 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 43.15% of changed lines were hand-edited
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/HafiziRuslan/HafiziRuslan/master/assets/bar_graph.png)
