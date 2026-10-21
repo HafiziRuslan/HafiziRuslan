@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="153.65"
+          width="153.67"
           height="8"
           fill="#4F5D95"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="153.65"
+          x="153.67"
           y="0"
-          width="70.47"
+          width="70.43"
           height="8"
           fill="#89e051"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.12"
+          x="224.1"
           y="0"
-          width="60.61"
+          width="60.62"
           height="8"
           fill="#663399"
         />
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="284.73"
+          x="284.71999999999997"
           y="0"
           width="44"
           height="8"
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="328.73"
+          x="328.71999999999997"
           y="0"
-          width="38.5"
+          width="38.51"
           height="8"
           fill="#f1e05a"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="367.23"
+          x="367.22999999999996"
           y="0"
           width="16.98"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="384.21000000000004"
+          x="384.21"
           y="0"
           width="16.09"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="400.3"
+          x="400.29999999999995"
           y="0"
           width="15.93"
           height="8"
@@ -216,9 +216,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="416.23"
+          x="416.22999999999996"
           y="0"
-          width="13.76"
+          width="13.77"
           height="8"
           fill="#e34c26"
         />
