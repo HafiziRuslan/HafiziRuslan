@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="162.35"
+          width="162.34"
           height="8"
           fill="#4F5D95"
         />
@@ -146,7 +146,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="162.35"
+          x="162.34"
           y="0"
           width="68.96"
           height="8"
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.31"
+          x="231.3"
           y="0"
           width="58.42"
           height="8"
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="289.73"
+          x="289.72"
           y="0"
-          width="42.48"
+          width="42.51"
           height="8"
           fill="#3572A5"
         />
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="332.21000000000004"
+          x="332.23"
           y="0"
           width="37.29"
           height="8"
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="369.50000000000006"
+          x="369.52000000000004"
           y="0"
-          width="16.37"
+          width="16.36"
           height="8"
           fill="#0298c3"
         />
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="385.87000000000006"
+          x="385.88000000000005"
           y="0"
           width="15.51"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="401.38000000000005"
+          x="401.39000000000004"
           y="0"
           width="15.35"
           height="8"
@@ -216,7 +216,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="416.7300000000001"
+          x="416.74000000000007"
           y="0"
           width="13.27"
           height="8"
